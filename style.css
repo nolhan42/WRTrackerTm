@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #111;
+    color: white;
+    margin: 0;
+    padding: 24px;
+}
+
+h1 {
+    margin-bottom: 12px;
+    text-align: center;
+}
+
+.toolbar {
+    width: 80%;
+    margin: 0 auto 24px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+#statusText {
+    color: #ccc;
+}
+
+button {
+    padding: 8px 14px;
+    border: 1px solid #555;
+    background: #222;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #333;
+}
+
+.table-wrapper {
+    margin: 0 auto 32px auto;
+}
+
+.table-wrapper.top5 {
+    width: 50%;
+}
+
+.table-wrapper.maps {
+    width: 80%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #0d0d0d;
+}
+
+th, td {
+    border: 1px solid #444;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background: #222;
+}
+
+tr:nth-child(even) {
+     background: #171717;
+}
+
+h2 {
+    margin: 0 0 12px 0;
+    text-align: center;
+}

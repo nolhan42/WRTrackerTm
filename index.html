@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Trackmania WR Tracker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="toolbar">
+    <button onclick="triggerRefresh()">Refresh now</button>
+    <div id="statusText">Loading...</div>
+  </div>
+
+  <div class="table-wrapper top5">
+    <h2>Top 5 WR Holders</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Rank</th>
+          <th>Player</th>
+          <th>WR Count</th>
+        </tr>
+      </thead>
+      <tbody id="top5TableBody"></tbody>
+    </table>
+  </div>
+
+  <div class="table-wrapper maps">
+    <h2>All Maps</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Map</th>
+          <th>WR Holder</th>
+          <th>WR Time</th>
+          <th>Date / Status</th>
+        </tr>
+      </thead>
+      <tbody id="mapTableBody"></tbody>
+    </table>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
