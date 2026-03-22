@@ -195,6 +195,17 @@ async function refreshCache() {
 }
 
 app.get("/api/wrs", (req, res) => {
+  const REFRESH_HOUR = 12 * 60 * 1000; /*12 hours*/
+
+  if (
+    !cache.isRefreshing &&
+    cache.lastUpdate &&
+    Date.now() - new Date(cache.lastUpdate).getTime() > REFRESH_HOUR
+  ) {
+    console.log("Cache is old → refreshing...");
+    refreshCache();
+  }
+
   res.json({
     lastUpdate: cache.lastUpdate,
     isRefreshing: cache.isRefreshing,
@@ -221,14 +232,15 @@ app.listen(PORT, () => {
 
   if (cache.maps.length === 0) {
     console.log("No cache found, starting initial refresh...");
-    refreshCache();
+    refreshCache(); // only first time ever
   } else {
     console.log(`Loaded ${cache.maps.length} cached maps.`);
     console.log(`Last update: ${cache.lastUpdate ?? "never"}`);
-    refreshCache();
+    console.log("Using cached data, no refresh on startup.");
   }
 
+  // 🔄 refresh every 12hours
   setInterval(() => {
     refreshCache();
-  }, REFRESH_INTERVAL_MS);
+  }, 12 * 60 * 1000);
 });
