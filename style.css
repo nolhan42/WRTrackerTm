@@ -73,3 +73,52 @@ h2 {
     margin: 0 0 12px 0;
     text-align: center;
 }
+
+/*Search bar*/
+.search-wrapper {
+  width: 100%;
+  margin: 0 auto 20px auto;
+  position: relative;
+}
+
+.search-wrapper label {
+  display: block;
+  margin-bottom: 8px;
+  text-align: center;
+  color: #ddd;
+}
+
+.search-wrapper input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  border: 1px solid #444;
+  background: #1a1a1a;
+  color: white;
+  font-size: 16px;
+}
+
+.suggestions {
+  position: absolute;
+  width: 100%;
+  background: #1a1a1a;
+  border: 1px solid #444;
+  border-top: none;
+  max-height: 220px;
+  overflow-y: auto;
+  z-index: 10;
+}
+
+.suggestion-item {
+  padding: 10px;
+  cursor: pointer;
+  border-top: 1px solid #2a2a2a;
+}
+
+.suggestion-item:hover {
+  background: #2a2a2a;
+}
+
+.details-row td {
+  background: #181818;
+}
