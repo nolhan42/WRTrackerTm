@@ -12,7 +12,7 @@ app.use(express.static(__dirname));
 const MAPS_FILE = path.join(__dirname, "maps.json");
 const CACHE_FILE = path.join(__dirname, "cache.json");
 
-const REFRESH_INTERVAL_MS = 12 * 60 * 1000; // 12 hours
+const REFRESH_INTERVAL_MS = 720 * 60 * 1000; // 12 hours
 const BATCH_SIZE = 10;
 const DELAY_BETWEEN_REQUESTS_MS = 1000;
 const DELAY_BETWEEN_BATCHES_MS = 3000;
@@ -242,5 +242,5 @@ app.listen(PORT, () => {
   // 🔄 refresh every 12hours
   setInterval(() => {
     refreshCache();
-  }, 12 * 60 * 1000);
+  }, 720 * 60 * 1000);
 });
