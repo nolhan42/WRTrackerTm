@@ -129,7 +129,7 @@ function renderTop5(maps) {
     playerRanks[player] = index;
 
     row.innerHTML = `
-      <td>${index + 1}</td>
+      <td>${icons[index]} ${index + 1}</td>
       <td>${player}</td>
       <td>${count}</td>
     `;
