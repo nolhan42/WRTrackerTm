@@ -195,14 +195,14 @@ async function refreshCache() {
 }
 
 app.get("/api/wrs", (req, res) => {
-  const REFRESH_HOUR = 12 * 60 * 1000; /*12 hours*/
+  const TWELVE_HOURS = 12 * 60 * 60 * 1000;
 
   if (
     !cache.isRefreshing &&
     cache.lastUpdate &&
-    Date.now() - new Date(cache.lastUpdate).getTime() > REFRESH_HOUR
+    Date.now() - new Date(cache.lastUpdate).getTime() > TWELVE_HOURS
   ) {
-    console.log("Cache is old → refreshing...");
+    console.log("Cache too old → refreshing...");
     refreshCache();
   }
 
