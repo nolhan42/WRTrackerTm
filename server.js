@@ -61,6 +61,22 @@ function loadMaps() {
   return maps;
 }
 
+function cacheNeedsRefresh() {
+  const maps = loadMaps();
+
+  if (!Array.isArray(cache.maps)) return true;
+  if (cache.maps.length !== maps.length) return true;
+
+  const cachedUids = new Set(cache.maps.map(m => m.uid));
+  for (const map of maps) {
+    if (!cachedUids.has(map.uid)) {
+      return true;
+    }
+  }
+
+  return false;
+}
+
 function loadCache() {
   const saved = readJsonFile(CACHE_FILE, null);
 
@@ -230,17 +246,22 @@ app.listen(PORT, () => {
 
   loadCache();
 
+  const maps = loadMaps();
+
   if (cache.maps.length === 0) {
     console.log("No cache found, starting initial refresh...");
-    refreshCache(); // only first time ever
+    refreshCache();
+  } else if (cacheNeedsRefresh()) {
+    console.log("Cache does not match maps.json, refreshing...");
+    refreshCache();
   } else {
     console.log(`Loaded ${cache.maps.length} cached maps.`);
+    console.log(`maps.json contains ${maps.length} maps.`);
     console.log(`Last update: ${cache.lastUpdate ?? "never"}`);
-    console.log("Using cached data, no refresh on startup.");
+    console.log("Using cached data on startup.");
   }
 
-  // 🔄 refresh every 12hours
   setInterval(() => {
     refreshCache();
-  }, 720 * 60 * 1000);
+  }, REFRESH_INTERVAL_MS);
 });
