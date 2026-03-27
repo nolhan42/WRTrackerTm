@@ -1,5 +1,6 @@
 const mapTableBody = document.getElementById("mapTableBody");
 const top5TableBody = document.getElementById("top5TableBody");
+const lastWrTableBody = document.getElementById("lastWrTableBody");
 const statusText = document.getElementById("statusText");
 const playerSearchInput = document.getElementById("playerSearch");
 const searchSuggestions = document.getElementById("searchSuggestions");
@@ -97,6 +98,30 @@ function escapeHtml(text) {
     .replaceAll("'", "&#039;");
 }
 
+/*WR functions*/
+function lastNewWrHighlight(maps) {
+  let latestMap = null;
+  let latestTime = 0;
+
+  maps.forEach(map => {
+    map.isNewWr = false;
+    if (!map.wrDate) return;
+
+    const wrDate = new Date(map.wrDate).getTime();
+    if (Number.isNaN(wrDate)) return;
+
+    if (wrDate > latestTime) {
+      latestTime = wrDate;
+      latestMap = map;
+    }
+  });
+
+  if (latestMap) {
+    latestMap.isNewWr = true;
+  }
+}
+
+/*------------TABLE------------*/
 /*Rendering functions*/
 function renderTop5(maps) {
   top5TableBody.innerHTML = "";
@@ -140,17 +165,62 @@ function renderTop5(maps) {
   return playerRanks;
 }
 
+function renderLastWRTable(maps) {
+  lastWrTableBody.innerHTML = "";
+
+  const validMaps = maps.filter(map => map.wrDate).sort((a, b) => new Date(b.wrDate) - new Date(a.wrDate)).slice(0, 5);
+
+  if (validMaps.length === 0) {
+    lastWrTableBody.innerHTML = `
+      <tr>
+        <td colspan="3">No WR data found</td>
+      </tr>
+    `;
+    return;
+  }
+
+  validMaps.forEach(map => {
+    const row = document.createElement("tr");
+    row.style.cursor = "pointer";
+
+    const improvement = map.secondTime && map.wrTime ? formatTime(map.secondTime - map.wrTime): "-";
+
+    row.innerHTML = `
+      <td>${map.name ?? "-"}</td>
+      <td>${map.wrHolder ?? "Not found"}</td>
+      <td>${improvement}</td>
+      <td>${`<span class="toggle-date" style="cursor:pointer; text-decoration:underline;">${timeSince(map.wrDate)}</span>` ?? "-"}</td>
+    `;
+
+    row.addEventListener("click", () => {
+      const targetRow = document.getElementById(`map-${map.number}`);
+      if (targetRow) {
+        targetRow.scrollIntoView({ behavior: "smooth", block: "center" });
+      }
+    });
+
+    lastWrTableBody.appendChild(row);
+  });
+}
+
+
 function renderMapsTable(maps, playerRanks) {
   mapTableBody.innerHTML = "";
 
   for (const map of maps) {
     const row = document.createElement("tr");
 
+    row.id = `map-${map.number}`;
+
     const rankIndex = playerRanks[map.wrHolder];
 
     if (rankIndex !== undefined) {
       row.style.color = colors[rankIndex];
       row.style.fontWeight = "bold";
+    }
+
+    if (map.isNewWr) {
+      row.classList.add("new-wr");
     }
 
     if (selectedPlayer) {
@@ -218,12 +288,15 @@ async function loadMaps() {
   try {
     const res = await fetch("/api/wrs");
     const data = await res.json();
+
+    lastNewWrHighlight(data.maps);
     const playerRanks = renderTop5(data.maps);
 
     buildPlayerList(data.maps);
 
     renderStatus(data.lastUpdate, data.isRefreshing, data.maps.length);
     renderTop5(data.maps);
+    renderLastWRTable(data.maps);
     renderMapsTable(data.maps, playerRanks);
   } catch (error) {
     mapTableBody.innerHTML = `
@@ -235,6 +308,12 @@ async function loadMaps() {
     top5TableBody.innerHTML = `
       <tr>
         <td colspan="3">Failed to load top 5</td>
+      </tr>
+    `;
+
+    lastWrTableBody.innerHTML = `
+      <tr>
+        <td colspan="3">Failed to load last WRs</td>
       </tr>
     `;
 

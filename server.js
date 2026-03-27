@@ -15,7 +15,7 @@ const CACHE_FILE = path.join(__dirname, "cache.json");
 const REFRESH_INTERVAL_MS = 720 * 60 * 1000; // 12 hours
 const BATCH_SIZE = 10;
 const DELAY_BETWEEN_REQUESTS_MS = 1000;
-const DELAY_BETWEEN_BATCHES_MS = 3000;
+const DELAY_BETWEEN_BATCHES_MS = 1000;
 
 function getPreviousMapData(uid) {
   return cache.maps.find(map => map.uid === uid) || null;
@@ -138,12 +138,19 @@ async function fetchMapWR(map) {
 
     const data = await response.json();
     const wr = data?.tops?.[0] ?? null;
+    const second = data?.tops?.[1] ?? null;
+    const mapInfo = data?.mapInfo ?? null;
 
     return {
       ...map,
       wrHolder: wr?.player?.name ?? null,
-      wrTime: wr?.time ?? null,
-      wrDate: wr?.timestamp ?? null,
+      wrTime: wr?.time ?? null, //WR time
+      wrDate: wr?.timestamp ?? null, 
+      secondTime: second?.time ?? null,   //second place, so technically old WR
+      secondHolder: second?.player?.name ?? null,
+
+      authorTime: mapInfo?.authorScore.time ?? null,
+      
       error: wr ? null : "No tops data"
     };
   } catch (error) {
@@ -152,6 +159,9 @@ async function fetchMapWR(map) {
       wrHolder: null,
       wrTime: null,
       wrDate: null,
+      secondTime: null,
+      secondHolder: null,
+      authorTime: null,
       error: error.message
     };
   }

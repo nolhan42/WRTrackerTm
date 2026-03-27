@@ -41,8 +41,19 @@ button:hover {
     margin: 0 auto 32px auto;
 }
 
+.tables-row {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto 32px auto;
+    width: 80%;
+}
+
 .table-wrapper.top5 {
-    width: 50%;
+    width: 48%;
+}
+
+.table-wrapper.last-wr {
+    width: 48%;
 }
 
 .table-wrapper.maps {
@@ -72,6 +83,11 @@ tr:nth-child(even) {
 h2 {
     margin: 0 0 12px 0;
     text-align: center;
+}
+
+tr.new-wr {
+    background-color: #3fe21e !important;
+    color: #000 !important;
 }
 
 /*Search bar*/
