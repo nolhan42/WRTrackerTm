@@ -12,9 +12,9 @@ app.use(express.static(__dirname));
 const MAPS_FILE = path.join(__dirname, "maps.json");
 const CACHE_FILE = path.join(__dirname, "cache.json");
 
-const REFRESH_INTERVAL_MS = 720 * 60 * 1000; // 12 hours
+const REFRESH_INTERVAL_MS = 1440 * 60 * 1000; // 12 hours
 const BATCH_SIZE = 10;
-const DELAY_BETWEEN_REQUESTS_MS = 1000;
+const DELAY_BETWEEN_REQUESTS_MS = 2000;
 const DELAY_BETWEEN_BATCHES_MS = 1000;
 
 function getPreviousMapData(uid) {
@@ -132,6 +132,9 @@ async function fetchMapWR(map) {
         wrHolder: null,
         wrTime: null,
         wrDate: null,
+        authorTime: null,
+        secondTime: null,
+        secondHolder: null,
         error: `HTTP ${response.status}`
       };
     }
@@ -139,7 +142,7 @@ async function fetchMapWR(map) {
     const data = await response.json();
     const wr = data?.tops?.[0] ?? null;
     const second = data?.tops?.[1] ?? null;
-    const mapInfo = data?.mapInfo ?? null;
+    const mapInfo = data?.map ?? null;
 
     return {
       ...map,
@@ -149,7 +152,7 @@ async function fetchMapWR(map) {
       secondTime: second?.time ?? null,   //second place, so technically old WR
       secondHolder: second?.player?.name ?? null,
 
-      authorTime: mapInfo?.authorScore.time ?? null,
+      authorTime: mapInfo?.authorScore?.time ?? null,
       
       error: wr ? null : "No tops data"
     };

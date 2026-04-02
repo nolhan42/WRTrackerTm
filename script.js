@@ -279,7 +279,7 @@ function renderStatus(lastUpdate, isRefreshing, count) {
   if (!statusText) return;
 
   const updated = lastUpdate ? `Last update: ${formatDate(lastUpdate)}` : "Last update: never";
-  const refreshing = isRefreshing ? "Refreshing in background..." : "Idle";
+  const refreshing = isRefreshing ? `Refreshing in background... ` : "Idle";
 
   statusText.textContent = `${updated} | ${refreshing} | ${count} maps cached`;
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-27T17:25:35.808Z",
+  "lastUpdate": "2026-04-02T02:00:48.939Z",
   "maps": [
     {
       "number": 1,
@@ -10,7 +10,7 @@
       "wrDate": "2024-11-09T19:47:54+00:00",
       "secondTime": 5875,
       "secondHolder": "whymypaypayhard",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "wrDate": "2024-06-24T05:07:18+00:00",
       "secondTime": 9258,
       "secondHolder": "pippoilio",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -34,7 +34,7 @@
       "wrDate": "2024-11-08T17:04:12+00:00",
       "secondTime": 7372,
       "secondHolder": "Clemalb_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "wrDate": "2025-04-13T21:15:12+00:00",
       "secondTime": 8938,
       "secondHolder": "MgIns4nity77",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -58,7 +58,7 @@
       "wrDate": "2024-02-25T17:38:34+00:00",
       "secondTime": 5059,
       "secondHolder": "alxis7116",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "wrDate": "2025-01-16T16:08:27+00:00",
       "secondTime": 9593,
       "secondHolder": "iPriMe..",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "wrDate": "2024-04-22T22:07:20+00:00",
       "secondTime": 12958,
       "secondHolder": "julii36969",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "wrDate": "2025-08-05T01:54:07+00:00",
       "secondTime": 4404,
       "secondHolder": "BLNK_TM",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -106,7 +106,7 @@
       "wrDate": "2024-07-03T19:55:01+00:00",
       "secondTime": 6129,
       "secondHolder": "GJJameson",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "wrDate": "2023-04-19T04:49:20+00:00",
       "secondTime": 7251,
       "secondHolder": "Qewnine",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -130,7 +130,7 @@
       "wrDate": "2025-05-08T19:42:40+00:00",
       "secondTime": 9843,
       "secondHolder": "ShadowsCurses",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -142,7 +142,7 @@
       "wrDate": "2023-11-16T22:59:51+00:00",
       "secondTime": 8427,
       "secondHolder": "RiskyDjWolfy",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -154,7 +154,7 @@
       "wrDate": "2025-04-28T13:49:56+00:00",
       "secondTime": 10490,
       "secondHolder": "Luciaaa42_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -166,19 +166,19 @@
       "wrDate": "2023-05-20T13:50:58+00:00",
       "secondTime": 11158,
       "secondHolder": "Poepboer",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
       "number": 15,
       "name": "Jump#15",
       "uid": "GZ1AsiwQU2LVgCQvh0lSYpuzLA6",
-      "wrHolder": "EggyTM",
+      "wrHolder": "Eggy-.-",
       "wrTime": 6443,
       "wrDate": "2023-08-16T03:53:28+00:00",
       "secondTime": 6446,
       "secondHolder": "Denniss..",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -190,7 +190,7 @@
       "wrDate": "2024-10-20T01:14:59+00:00",
       "secondTime": 9627,
       "secondHolder": "julii36969",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -202,7 +202,7 @@
       "wrDate": "2024-09-11T00:07:14+00:00",
       "secondTime": 13338,
       "secondHolder": "julii36969",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -214,7 +214,7 @@
       "wrDate": "2026-03-13T15:35:11+00:00",
       "secondTime": 13513,
       "secondHolder": "letterA",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -226,7 +226,7 @@
       "wrDate": "2024-03-26T14:17:03+00:00",
       "secondTime": 8045,
       "secondHolder": "ShadowsCurses",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -238,7 +238,7 @@
       "wrDate": "2024-01-24T16:06:18+00:00",
       "secondTime": 9889,
       "secondHolder": "Luciaaa42_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -250,7 +250,7 @@
       "wrDate": "2025-08-24T13:50:42+00:00",
       "secondTime": 7792,
       "secondHolder": "ByronBrown84",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -262,7 +262,7 @@
       "wrDate": "2024-07-01T15:49:31+00:00",
       "secondTime": 12124,
       "secondHolder": "Luciaaa42_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -274,7 +274,7 @@
       "wrDate": "2024-12-29T01:12:36+00:00",
       "secondTime": 8848,
       "secondHolder": "SliceTM",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -286,7 +286,7 @@
       "wrDate": "2024-10-30T23:06:10+00:00",
       "secondTime": 7091,
       "secondHolder": "julii36969",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -298,7 +298,7 @@
       "wrDate": "2025-08-05T01:22:40+00:00",
       "secondTime": 3398,
       "secondHolder": "Luciaaa42_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -310,7 +310,7 @@
       "wrDate": "2025-03-25T00:05:22+00:00",
       "secondTime": 4031,
       "secondHolder": "VengefulClaw0",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -322,7 +322,7 @@
       "wrDate": "2026-03-21T15:07:42+00:00",
       "secondTime": 9032,
       "secondHolder": "StuuuTM",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -334,7 +334,7 @@
       "wrDate": "2024-04-01T14:09:27+00:00",
       "secondTime": 10352,
       "secondHolder": "julii36969",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -346,7 +346,7 @@
       "wrDate": "2025-09-17T13:55:28+00:00",
       "secondTime": 12358,
       "secondHolder": "Wiz5914",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -358,7 +358,7 @@
       "wrDate": "2024-11-11T11:37:18+00:00",
       "secondTime": 11184,
       "secondHolder": "AgedFruit",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -370,7 +370,7 @@
       "wrDate": "2024-03-21T21:56:39+00:00",
       "secondTime": 7976,
       "secondHolder": "Luciaaa42_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -382,7 +382,7 @@
       "wrDate": "2024-08-03T00:37:28+00:00",
       "secondTime": 17909,
       "secondHolder": "Mirbb.",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -394,7 +394,7 @@
       "wrDate": "2025-02-22T16:08:08+00:00",
       "secondTime": 5655,
       "secondHolder": "Zol_dsr",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -406,7 +406,7 @@
       "wrDate": "2024-05-11T14:42:31+00:00",
       "secondTime": 6358,
       "secondHolder": "Scrapie98",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -418,7 +418,7 @@
       "wrDate": "2024-07-30T01:51:35+00:00",
       "secondTime": 10254,
       "secondHolder": "Franswazig",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -430,7 +430,7 @@
       "wrDate": "2025-08-07T18:03:47+00:00",
       "secondTime": 5598,
       "secondHolder": "alxis7116",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -442,7 +442,7 @@
       "wrDate": "2025-05-17T12:00:11+00:00",
       "secondTime": 7281,
       "secondHolder": "ELDI.",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -454,7 +454,7 @@
       "wrDate": "2025-04-17T00:11:21+00:00",
       "secondTime": 9582,
       "secondHolder": "AzuredBlue",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -466,7 +466,7 @@
       "wrDate": "2025-06-20T01:37:21+00:00",
       "secondTime": 8301,
       "secondHolder": "Wiz5914",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -478,7 +478,7 @@
       "wrDate": "2024-12-27T20:07:19+00:00",
       "secondTime": 6938,
       "secondHolder": "ComplexStatics_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -490,7 +490,7 @@
       "wrDate": "2025-06-13T16:43:54+00:00",
       "secondTime": 9529,
       "secondHolder": "alxis7116",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -502,7 +502,7 @@
       "wrDate": "2024-08-21T01:08:35+00:00",
       "secondTime": 8968,
       "secondHolder": "Luciaaa42_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -514,7 +514,7 @@
       "wrDate": "2026-02-07T17:53:05+00:00",
       "secondTime": 11388,
       "secondHolder": "CR7MENTALITY.",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -526,7 +526,7 @@
       "wrDate": "2025-03-06T14:28:09+00:00",
       "secondTime": 7885,
       "secondHolder": "Josh_1963",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -538,7 +538,7 @@
       "wrDate": "2024-03-24T22:08:52+00:00",
       "secondTime": 8645,
       "secondHolder": "Lola_Hot_Stream",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -550,7 +550,7 @@
       "wrDate": "2024-07-29T03:17:30+00:00",
       "secondTime": 6007,
       "secondHolder": "Mr_Mochipet",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -562,7 +562,7 @@
       "wrDate": "2025-08-20T00:39:01+00:00",
       "secondTime": 14165,
       "secondHolder": "Lucky-TM",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -574,7 +574,7 @@
       "wrDate": "2024-07-04T18:18:54+00:00",
       "secondTime": 16935,
       "secondHolder": "gav_1n",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -586,7 +586,7 @@
       "wrDate": "2024-12-05T17:33:33+00:00",
       "secondTime": 7179,
       "secondHolder": "alxis7116",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -598,7 +598,7 @@
       "wrDate": "2023-12-10T13:58:24+00:00",
       "secondTime": 9664,
       "secondHolder": "bigbenslayer",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -610,7 +610,7 @@
       "wrDate": "2024-09-03T06:51:45+00:00",
       "secondTime": 8628,
       "secondHolder": "isutty5",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -622,7 +622,7 @@
       "wrDate": "2025-06-07T20:22:31+00:00",
       "secondTime": 14926,
       "secondHolder": "BavvFC",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -634,7 +634,7 @@
       "wrDate": "2026-01-31T00:05:26+00:00",
       "secondTime": 12085,
       "secondHolder": "FoxFaceTM",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -646,19 +646,19 @@
       "wrDate": "2024-11-04T01:15:16+00:00",
       "secondTime": 12922,
       "secondHolder": "Dussll",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
       "number": 55,
       "name": "Jump#55",
       "uid": "cB0BmUtKPhXVuteVTjbEEZ0Mo8g",
-      "wrHolder": "b3d.",
+      "wrHolder": "pb.y.d",
       "wrTime": 9281,
       "wrDate": "2025-12-21T07:53:07+00:00",
       "secondTime": 9286,
       "secondHolder": "MgIns4nity77",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -670,7 +670,7 @@
       "wrDate": "2026-01-06T16:57:34+00:00",
       "secondTime": 11890,
       "secondHolder": "Luciaaa42_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -682,7 +682,7 @@
       "wrDate": "2024-01-12T20:41:48+00:00",
       "secondTime": 6147,
       "secondHolder": "FRICKY-",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -694,7 +694,7 @@
       "wrDate": "2026-02-13T01:18:32+00:00",
       "secondTime": 13843,
       "secondHolder": "Tram15.",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -706,7 +706,7 @@
       "wrDate": "2025-06-22T10:56:46+00:00",
       "secondTime": 8188,
       "secondHolder": "CMW_TM",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -718,7 +718,7 @@
       "wrDate": "2024-06-20T16:37:12+00:00",
       "secondTime": 9774,
       "secondHolder": "alxis7116",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -730,7 +730,7 @@
       "wrDate": "2024-11-17T00:30:48+00:00",
       "secondTime": 8920,
       "secondHolder": "FoxFaceTM",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -742,7 +742,7 @@
       "wrDate": "2024-10-03T23:36:59+00:00",
       "secondTime": 11574,
       "secondHolder": "H4RO.",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -754,7 +754,7 @@
       "wrDate": "2025-05-13T22:06:41+00:00",
       "secondTime": 11191,
       "secondHolder": "DexteR.773",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -766,7 +766,7 @@
       "wrDate": "2024-05-11T17:22:03+00:00",
       "secondTime": 6311,
       "secondHolder": "Luciaaa42_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -778,7 +778,7 @@
       "wrDate": "2025-08-06T18:24:43+00:00",
       "secondTime": 11689,
       "secondHolder": "Chayann23TM",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -790,7 +790,7 @@
       "wrDate": "2025-02-26T04:00:44+00:00",
       "secondTime": 10081,
       "secondHolder": "LeKiksdeBondy",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -802,7 +802,7 @@
       "wrDate": "2024-06-14T11:56:39+00:00",
       "secondTime": 9517,
       "secondHolder": "Luciaaa42_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -814,7 +814,7 @@
       "wrDate": "2025-04-01T11:24:22+00:00",
       "secondTime": 10922,
       "secondHolder": "BUXKSK_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -826,7 +826,7 @@
       "wrDate": "2025-06-10T10:32:28+00:00",
       "secondTime": 11634,
       "secondHolder": "MgIns4nity77",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -838,7 +838,7 @@
       "wrDate": "2024-05-06T02:00:10+00:00",
       "secondTime": 12085,
       "secondHolder": "mynameisfaran",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -850,7 +850,7 @@
       "wrDate": "2024-04-24T16:31:42+00:00",
       "secondTime": 12285,
       "secondHolder": "DMR-GameBros",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -862,7 +862,7 @@
       "wrDate": "2024-06-19T20:47:08+00:00",
       "secondTime": 10098,
       "secondHolder": "Esti.Tabarnak",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -874,7 +874,7 @@
       "wrDate": "2024-08-18T16:30:43+00:00",
       "secondTime": 11603,
       "secondHolder": "Razz3r_25",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -886,7 +886,7 @@
       "wrDate": "2025-07-24T14:06:46+00:00",
       "secondTime": 15668,
       "secondHolder": "Wiz5914",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -898,7 +898,7 @@
       "wrDate": "2025-05-16T01:57:19+00:00",
       "secondTime": 12822,
       "secondHolder": "Plombz",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -910,7 +910,7 @@
       "wrDate": "2026-02-08T09:25:56+00:00",
       "secondTime": 12858,
       "secondHolder": "Tram15.",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -922,7 +922,7 @@
       "wrDate": "2025-06-20T13:48:04+00:00",
       "secondTime": 11838,
       "secondHolder": "TheOrion_73",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -934,7 +934,7 @@
       "wrDate": "2024-06-17T09:21:24+00:00",
       "secondTime": 13573,
       "secondHolder": "Mathyper59",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -946,7 +946,7 @@
       "wrDate": "2025-06-21T21:54:17+00:00",
       "secondTime": 13733,
       "secondHolder": "alxis7116",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -958,7 +958,7 @@
       "wrDate": "2024-05-04T18:54:41+00:00",
       "secondTime": 11740,
       "secondHolder": "FoxFaceTM",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -970,7 +970,7 @@
       "wrDate": "2025-02-26T22:58:11+00:00",
       "secondTime": 8367,
       "secondHolder": "Wiz5914",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -982,7 +982,7 @@
       "wrDate": "2026-01-22T18:42:18+00:00",
       "secondTime": 11814,
       "secondHolder": "ROtrex..",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -994,7 +994,7 @@
       "wrDate": "2025-07-29T16:03:17+00:00",
       "secondTime": 11123,
       "secondHolder": "ElRouspetto2",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1006,7 +1006,7 @@
       "wrDate": "2025-06-30T08:45:17+00:00",
       "secondTime": 10061,
       "secondHolder": "Jimmycrusher",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1018,7 +1018,7 @@
       "wrDate": "2025-05-17T20:30:41+00:00",
       "secondTime": 11971,
       "secondHolder": "alxis7116",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1030,7 +1030,7 @@
       "wrDate": "2025-02-15T23:25:58+00:00",
       "secondTime": 10079,
       "secondHolder": "metristan.",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1042,7 +1042,7 @@
       "wrDate": "2024-12-24T04:36:47+00:00",
       "secondTime": 10096,
       "secondHolder": "djabski",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1054,7 +1054,7 @@
       "wrDate": "2024-07-05T08:14:27+00:00",
       "secondTime": 8510,
       "secondHolder": "Dussll",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1066,7 +1066,7 @@
       "wrDate": "2024-09-09T14:41:10+00:00",
       "secondTime": 9880,
       "secondHolder": "Luukasa123",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1078,7 +1078,7 @@
       "wrDate": "2024-10-23T21:49:35+00:00",
       "secondTime": 8544,
       "secondHolder": "Linked-divide",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1090,7 +1090,7 @@
       "wrDate": "2024-11-18T13:18:18+00:00",
       "secondTime": 9199,
       "secondHolder": "Wiz5914",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1102,7 +1102,7 @@
       "wrDate": "2025-07-26T22:58:27+00:00",
       "secondTime": 12154,
       "secondHolder": "Aquariummm",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1114,7 +1114,7 @@
       "wrDate": "2025-08-14T11:23:17+00:00",
       "secondTime": 16197,
       "secondHolder": "Wiz5914",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1126,7 +1126,7 @@
       "wrDate": "2025-08-15T16:31:36+00:00",
       "secondTime": 10634,
       "secondHolder": "ELDI.",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1138,7 +1138,7 @@
       "wrDate": "2026-03-08T20:51:09+00:00",
       "secondTime": 10238,
       "secondHolder": "puchmu",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1150,7 +1150,7 @@
       "wrDate": "2025-03-27T21:14:32+00:00",
       "secondTime": 11574,
       "secondHolder": "Luciaaa42_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1162,7 +1162,7 @@
       "wrDate": "2025-03-30T13:32:55+00:00",
       "secondTime": 8492,
       "secondHolder": "WirtualTM",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1174,7 +1174,7 @@
       "wrDate": "2024-07-05T01:47:58+00:00",
       "secondTime": 10808,
       "secondHolder": "Luciaaa42_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1186,7 +1186,7 @@
       "wrDate": "2025-04-12T17:21:04+00:00",
       "secondTime": 11895,
       "secondHolder": "Luciaaa42_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1198,7 +1198,7 @@
       "wrDate": "2025-05-02T00:55:26+00:00",
       "secondTime": 10732,
       "secondHolder": "alxis7116",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1210,7 +1210,7 @@
       "wrDate": "2025-01-10T20:45:56+00:00",
       "secondTime": 9844,
       "secondHolder": "french_sleeper",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1222,7 +1222,7 @@
       "wrDate": "2025-08-15T02:40:29+00:00",
       "secondTime": 8988,
       "secondHolder": "jjbros822",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1234,7 +1234,7 @@
       "wrDate": "2025-12-26T04:00:09+00:00",
       "secondTime": 33331,
       "secondHolder": "MustardF1",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1246,7 +1246,7 @@
       "wrDate": "2024-10-30T20:41:16+00:00",
       "secondTime": 17133,
       "secondHolder": "Patale_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1258,7 +1258,7 @@
       "wrDate": "2025-04-28T19:57:21+00:00",
       "secondTime": 14713,
       "secondHolder": "alxis7116",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1270,7 +1270,7 @@
       "wrDate": "2025-01-13T13:16:38+00:00",
       "secondTime": 9870,
       "secondHolder": "TarporTM",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1282,7 +1282,7 @@
       "wrDate": "2025-05-09T11:53:03+00:00",
       "secondTime": 13786,
       "secondHolder": "puchmu",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1294,7 +1294,7 @@
       "wrDate": "2025-04-19T22:07:11+00:00",
       "secondTime": 9315,
       "secondHolder": "Kallaxtrom",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1306,7 +1306,7 @@
       "wrDate": "2025-05-22T01:53:18+00:00",
       "secondTime": 15438,
       "secondHolder": "DarknessEoL",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1318,7 +1318,7 @@
       "wrDate": "2025-06-03T13:00:59+00:00",
       "secondTime": 14518,
       "secondHolder": "miikapekka",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1330,7 +1330,7 @@
       "wrDate": "2024-06-13T19:36:55+00:00",
       "secondTime": 20576,
       "secondHolder": "Jxliano",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1342,7 +1342,7 @@
       "wrDate": "2024-06-17T17:30:08+00:00",
       "secondTime": 8602,
       "secondHolder": "Luciaaa42_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1354,7 +1354,7 @@
       "wrDate": "2025-12-31T14:25:48+00:00",
       "secondTime": 10902,
       "secondHolder": "Wiz5914",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1366,7 +1366,7 @@
       "wrDate": "2024-06-14T22:37:34+00:00",
       "secondTime": 14398,
       "secondHolder": "Lefouore",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1378,7 +1378,7 @@
       "wrDate": "2025-02-11T23:34:55+00:00",
       "secondTime": 9694,
       "secondHolder": "vaesh",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1390,7 +1390,7 @@
       "wrDate": "2025-06-13T21:07:33+00:00",
       "secondTime": 14184,
       "secondHolder": "jestivu.",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1401,8 +1401,8 @@
       "wrTime": 7570,
       "wrDate": "2025-04-01T12:26:32+00:00",
       "secondTime": 7573,
-      "secondHolder": "EddieZz.",
-      "AT": null,
+      "secondHolder": "Eddie__.",
+      "authorTime": null,
       "error": null
     },
     {
@@ -1414,7 +1414,7 @@
       "wrDate": "2025-06-15T15:23:51+00:00",
       "secondTime": 13134,
       "secondHolder": "tintin-81",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1426,7 +1426,7 @@
       "wrDate": "2025-03-25T17:39:49+00:00",
       "secondTime": 11675,
       "secondHolder": "orkla_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1438,7 +1438,7 @@
       "wrDate": "2025-05-10T15:51:37+00:00",
       "secondTime": 9883,
       "secondHolder": "Windho",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1450,7 +1450,7 @@
       "wrDate": "2024-06-27T22:09:27+00:00",
       "secondTime": 15558,
       "secondHolder": "gawsgaming",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1462,7 +1462,7 @@
       "wrDate": "2024-08-14T21:11:36+00:00",
       "secondTime": 13520,
       "secondHolder": "AzeN__",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1474,7 +1474,7 @@
       "wrDate": "2024-06-22T03:53:16+00:00",
       "secondTime": 16533,
       "secondHolder": "dirtlover0273",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1486,7 +1486,7 @@
       "wrDate": "2026-03-19T18:03:41+00:00",
       "secondTime": 12674,
       "secondHolder": "alxis7116",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1498,7 +1498,7 @@
       "wrDate": "2024-10-16T03:14:24+00:00",
       "secondTime": 16283,
       "secondHolder": "Luciaaa42_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1510,7 +1510,7 @@
       "wrDate": "2024-09-16T06:07:08+00:00",
       "secondTime": 16265,
       "secondHolder": "SliceTM",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1522,7 +1522,7 @@
       "wrDate": "2025-12-21T00:59:25+00:00",
       "secondTime": 13340,
       "secondHolder": "iiHugo",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1534,7 +1534,7 @@
       "wrDate": "2025-08-17T15:47:10+00:00",
       "secondTime": 12978,
       "secondHolder": "vaysee",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1546,7 +1546,7 @@
       "wrDate": "2024-07-18T15:12:04+00:00",
       "secondTime": 15126,
       "secondHolder": "Luciaaa42_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1558,7 +1558,7 @@
       "wrDate": "2025-06-11T01:19:20+00:00",
       "secondTime": 15611,
       "secondHolder": "Bedeux_TM",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1570,7 +1570,7 @@
       "wrDate": "2024-09-19T18:58:30+00:00",
       "secondTime": 12200,
       "secondHolder": "Mustufa_Baig_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1582,7 +1582,7 @@
       "wrDate": "2026-03-25T17:46:15+00:00",
       "secondTime": 14658,
       "secondHolder": "Dodeka.",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1594,7 +1594,7 @@
       "wrDate": "2025-03-18T17:30:05+00:00",
       "secondTime": 12789,
       "secondHolder": "orkla_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1606,7 +1606,7 @@
       "wrDate": "2025-02-04T17:34:26+00:00",
       "secondTime": 10394,
       "secondHolder": "WashedNowa",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1618,7 +1618,7 @@
       "wrDate": "2024-09-28T22:11:04+00:00",
       "secondTime": 14985,
       "secondHolder": "FlinkeJetsersTM",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1630,7 +1630,7 @@
       "wrDate": "2025-04-28T13:46:18+00:00",
       "secondTime": 18935,
       "secondHolder": "Larstm",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1642,7 +1642,7 @@
       "wrDate": "2024-07-14T19:10:58+00:00",
       "secondTime": 18348,
       "secondHolder": "noiszia",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1654,7 +1654,7 @@
       "wrDate": "2025-07-27T10:29:43+00:00",
       "secondTime": 18248,
       "secondHolder": "ELDI.",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1666,7 +1666,7 @@
       "wrDate": "2025-04-16T19:54:56+00:00",
       "secondTime": 13132,
       "secondHolder": "ZorglubTM",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1678,7 +1678,7 @@
       "wrDate": "2025-05-11T00:01:11+00:00",
       "secondTime": 18367,
       "secondHolder": "Shadownet11",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1690,7 +1690,7 @@
       "wrDate": "2026-01-15T13:23:34+00:00",
       "secondTime": 26615,
       "secondHolder": "Luciaaa42_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1702,7 +1702,7 @@
       "wrDate": "2025-01-02T17:09:13+00:00",
       "secondTime": 13518,
       "secondHolder": "alxis7116",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1714,7 +1714,7 @@
       "wrDate": "2024-07-14T16:27:44+00:00",
       "secondTime": 12961,
       "secondHolder": "Cykelhjul",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1726,7 +1726,7 @@
       "wrDate": "2025-05-30T11:12:01+00:00",
       "secondTime": 16540,
       "secondHolder": "bendzso19",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1738,7 +1738,7 @@
       "wrDate": "2024-09-19T19:39:22+00:00",
       "secondTime": 19370,
       "secondHolder": "sjafo",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1750,7 +1750,7 @@
       "wrDate": "2024-07-17T16:08:59+00:00",
       "secondTime": 18183,
       "secondHolder": "UnprovenRuben",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1762,7 +1762,7 @@
       "wrDate": "2026-02-27T22:01:50+00:00",
       "secondTime": 22678,
       "secondHolder": "Liquid_Fox_LS",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1774,7 +1774,7 @@
       "wrDate": "2024-07-20T20:40:06+00:00",
       "secondTime": 19832,
       "secondHolder": "Mr.MeowStahh",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1786,7 +1786,7 @@
       "wrDate": "2025-06-25T16:31:51+00:00",
       "secondTime": 16292,
       "secondHolder": "Gazorpalse.",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1798,19 +1798,19 @@
       "wrDate": "2025-11-18T17:05:40+00:00",
       "secondTime": 12016,
       "secondHolder": "Nieqtv",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
       "number": 151,
       "name": "Jump#151",
       "uid": "kxXT3QAO_TMa9cHAkPnd2EDhGgh",
-      "wrHolder": "Wiz5914",
-      "wrTime": 11874,
-      "wrDate": "2025-11-24T23:31:53+00:00",
-      "secondTime": 11927,
-      "secondHolder": "Cherno.TM",
-      "AT": null,
+      "wrHolder": "AnalogKbabuser",
+      "wrTime": 11508,
+      "wrDate": "2026-03-30T22:16:05+00:00",
+      "secondTime": 11535,
+      "secondHolder": "Vatsug44",
+      "authorTime": null,
       "error": null
     },
     {
@@ -1822,7 +1822,7 @@
       "wrDate": "2025-05-24T20:51:22+00:00",
       "secondTime": 14611,
       "secondHolder": "Keeba.",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1834,7 +1834,7 @@
       "wrDate": "2025-05-26T13:55:43+00:00",
       "secondTime": 17573,
       "secondHolder": "UsoTM",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1846,7 +1846,7 @@
       "wrDate": "2025-05-31T23:24:11+00:00",
       "secondTime": 20438,
       "secondHolder": "SkattaHg",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1858,7 +1858,7 @@
       "wrDate": "2025-05-30T16:51:37+00:00",
       "secondTime": 11375,
       "secondHolder": "kandzsika",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1870,7 +1870,7 @@
       "wrDate": "2025-08-09T22:13:41+00:00",
       "secondTime": 17338,
       "secondHolder": "TarporTM",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1882,7 +1882,7 @@
       "wrDate": "2025-12-26T20:58:24+00:00",
       "secondTime": 23102,
       "secondHolder": "TrackmaniaSigma",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1894,7 +1894,7 @@
       "wrDate": "2026-02-07T17:40:43+00:00",
       "secondTime": 24447,
       "secondHolder": "vKrnz",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1906,7 +1906,7 @@
       "wrDate": "2026-02-24T21:28:41+00:00",
       "secondTime": 13050,
       "secondHolder": "useinaimbot",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1918,7 +1918,7 @@
       "wrDate": "2026-01-19T15:44:50+00:00",
       "secondTime": 12946,
       "secondHolder": "Never.95",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1930,7 +1930,7 @@
       "wrDate": "2025-12-26T21:40:10+00:00",
       "secondTime": 20955,
       "secondHolder": "wrain_.",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1942,7 +1942,7 @@
       "wrDate": "2025-07-15T17:31:20+00:00",
       "secondTime": 16004,
       "secondHolder": "Wiruden",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1954,7 +1954,7 @@
       "wrDate": "2025-09-03T20:02:16+00:00",
       "secondTime": 17872,
       "secondHolder": "lasyopp",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1966,7 +1966,7 @@
       "wrDate": "2025-08-15T16:21:21+00:00",
       "secondTime": 16349,
       "secondHolder": "Robibouze",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1978,7 +1978,7 @@
       "wrDate": "2025-11-25T22:01:24+00:00",
       "secondTime": 19632,
       "secondHolder": "FrankTheHamster",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -1990,7 +1990,7 @@
       "wrDate": "2025-08-21T16:53:16+00:00",
       "secondTime": 14981,
       "secondHolder": "MouldySlippers",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2002,7 +2002,7 @@
       "wrDate": "2025-08-23T16:18:58+00:00",
       "secondTime": 14996,
       "secondHolder": "hayiom..",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2014,7 +2014,7 @@
       "wrDate": "2025-09-13T09:07:36+00:00",
       "secondTime": 16831,
       "secondHolder": "Monocreos",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2026,7 +2026,7 @@
       "wrDate": "2025-08-27T22:04:58+00:00",
       "secondTime": 16862,
       "secondHolder": "not7_Harry",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2038,7 +2038,7 @@
       "wrDate": "2026-03-15T20:09:15+00:00",
       "secondTime": 17548,
       "secondHolder": "G0LI0",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2050,7 +2050,7 @@
       "wrDate": "2025-08-28T11:39:37+00:00",
       "secondTime": 16238,
       "secondHolder": "Netto_grof",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2062,7 +2062,7 @@
       "wrDate": "2026-01-19T18:53:26+00:00",
       "secondTime": 12752,
       "secondHolder": "LucaSniperTrick",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2072,9 +2072,9 @@
       "wrHolder": "nejcig",
       "wrTime": 19655,
       "wrDate": "2025-08-30T21:39:34+00:00",
-      "secondTime": 19775,
-      "secondHolder": "artroy666",
-      "AT": null,
+      "secondTime": 19692,
+      "secondHolder": "sid_sensei",
+      "authorTime": null,
       "error": null
     },
     {
@@ -2086,7 +2086,7 @@
       "wrDate": "2025-11-27T06:13:03+00:00",
       "secondTime": 18848,
       "secondHolder": "Makrellen...",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2098,7 +2098,7 @@
       "wrDate": "2025-09-07T01:48:33+00:00",
       "secondTime": 24622,
       "secondHolder": "Ameisenhalter",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2110,7 +2110,7 @@
       "wrDate": "2025-09-07T14:24:47+00:00",
       "secondTime": 12621,
       "secondHolder": "Kallaxtrom",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2122,7 +2122,7 @@
       "wrDate": "2025-09-13T13:48:39+00:00",
       "secondTime": 14530,
       "secondHolder": "eColeye",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2134,7 +2134,7 @@
       "wrDate": "2026-01-25T18:31:24+00:00",
       "secondTime": 13269,
       "secondHolder": "Vendetta.95",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2146,7 +2146,7 @@
       "wrDate": "2025-11-09T22:44:05+00:00",
       "secondTime": 17304,
       "secondHolder": "JarCrab",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2158,7 +2158,7 @@
       "wrDate": "2026-02-28T01:05:40+00:00",
       "secondTime": 18508,
       "secondHolder": "dreadfull_me",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2170,7 +2170,7 @@
       "wrDate": "2026-01-06T20:31:41+00:00",
       "secondTime": 16287,
       "secondHolder": "LizGrd",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2182,7 +2182,7 @@
       "wrDate": "2026-01-06T19:56:54+00:00",
       "secondTime": 18005,
       "secondHolder": "Kunz..",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2194,7 +2194,7 @@
       "wrDate": "2026-01-13T16:49:58+00:00",
       "secondTime": 16964,
       "secondHolder": "Plombz",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2206,7 +2206,7 @@
       "wrDate": "2026-01-09T17:53:53+00:00",
       "secondTime": 17834,
       "secondHolder": "Bowbeau",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2218,7 +2218,7 @@
       "wrDate": "2026-01-11T12:40:07+00:00",
       "secondTime": 10995,
       "secondHolder": "Gwenn.",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2230,7 +2230,7 @@
       "wrDate": "2026-01-15T00:07:10+00:00",
       "secondTime": 11968,
       "secondHolder": "Yayeti223",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2242,7 +2242,7 @@
       "wrDate": "2026-01-13T03:36:11+00:00",
       "secondTime": 7862,
       "secondHolder": "ultimatum...",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2254,7 +2254,7 @@
       "wrDate": "2026-02-07T22:17:35+00:00",
       "secondTime": 16128,
       "secondHolder": "FrankTheHamster",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2266,7 +2266,7 @@
       "wrDate": "2026-02-18T07:25:23+00:00",
       "secondTime": 10788,
       "secondHolder": "Shnombler",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2278,7 +2278,7 @@
       "wrDate": "2026-02-03T03:48:34+00:00",
       "secondTime": 9783,
       "secondHolder": "ailiei.",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2290,7 +2290,7 @@
       "wrDate": "2026-03-03T22:23:10+00:00",
       "secondTime": 11337,
       "secondHolder": "OskarTM",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2302,7 +2302,7 @@
       "wrDate": "2026-03-26T17:20:14+00:00",
       "secondTime": 15749,
       "secondHolder": "nyigel.",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2314,7 +2314,7 @@
       "wrDate": "2026-02-14T13:11:52+00:00",
       "secondTime": 9304,
       "secondHolder": "Tekky..",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2326,7 +2326,7 @@
       "wrDate": "2026-02-15T13:28:49+00:00",
       "secondTime": 9778,
       "secondHolder": "BUXKSK_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2338,7 +2338,7 @@
       "wrDate": "2026-02-24T00:12:07+00:00",
       "secondTime": 15900,
       "secondHolder": "loulipo",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2350,7 +2350,7 @@
       "wrDate": "2026-02-26T19:36:45+00:00",
       "secondTime": 12879,
       "secondHolder": "IchwilleinBenz",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2362,7 +2362,7 @@
       "wrDate": "2026-02-25T09:01:48+00:00",
       "secondTime": 10483,
       "secondHolder": "HUGH_JAN0S",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2374,7 +2374,7 @@
       "wrDate": "2026-02-25T16:58:15+00:00",
       "secondTime": 14118,
       "secondHolder": "Zofaiiz",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2386,7 +2386,7 @@
       "wrDate": "2026-03-22T03:28:14+00:00",
       "secondTime": 12038,
       "secondHolder": "sheem.",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2398,7 +2398,7 @@
       "wrDate": "2026-02-26T22:36:27+00:00",
       "secondTime": 8352,
       "secondHolder": "xluketx",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2410,7 +2410,7 @@
       "wrDate": "2026-03-06T18:57:20+00:00",
       "secondTime": 11628,
       "secondHolder": "xluketx",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2422,7 +2422,7 @@
       "wrDate": "2026-02-27T18:20:16+00:00",
       "secondTime": 12044,
       "secondHolder": "Shnombler",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2434,7 +2434,7 @@
       "wrDate": "2026-03-03T18:05:46+00:00",
       "secondTime": 13666,
       "secondHolder": "Makrellen...",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2446,7 +2446,7 @@
       "wrDate": "2026-03-02T08:54:09+00:00",
       "secondTime": 13060,
       "secondHolder": "Scott_TM",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2458,7 +2458,7 @@
       "wrDate": "2026-03-03T19:01:33+00:00",
       "secondTime": 10548,
       "secondHolder": "xluketx",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2470,7 +2470,7 @@
       "wrDate": "2026-03-07T18:02:30+00:00",
       "secondTime": 14080,
       "secondHolder": "nyigel.",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2482,7 +2482,7 @@
       "wrDate": "2026-03-22T06:54:50+00:00",
       "secondTime": 9268,
       "secondHolder": "MgIns4nity77",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2494,7 +2494,7 @@
       "wrDate": "2026-03-19T00:52:19+00:00",
       "secondTime": 15957,
       "secondHolder": "kiqtq",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2506,7 +2506,7 @@
       "wrDate": "2026-03-10T00:06:50+00:00",
       "secondTime": 19964,
       "secondHolder": "rBallistic",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2518,7 +2518,7 @@
       "wrDate": "2026-03-12T03:00:05+00:00",
       "secondTime": 14168,
       "secondHolder": "N3k0.TM",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2530,7 +2530,7 @@
       "wrDate": "2026-03-11T23:25:08+00:00",
       "secondTime": 11263,
       "secondHolder": "humfreeee",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2542,7 +2542,7 @@
       "wrDate": "2026-03-17T05:56:00+00:00",
       "secondTime": 10483,
       "secondHolder": "Luciaaa42_",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2554,7 +2554,7 @@
       "wrDate": "2026-03-17T17:02:47+00:00",
       "secondTime": 10304,
       "secondHolder": "nzjg",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2566,7 +2566,7 @@
       "wrDate": "2026-03-23T21:29:39+00:00",
       "secondTime": 13589,
       "secondHolder": "KetchupDisliker",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2578,7 +2578,7 @@
       "wrDate": "2026-03-17T16:05:41+00:00",
       "secondTime": 21439,
       "secondHolder": "Kalmiya48",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2589,8 +2589,8 @@
       "wrTime": 11671,
       "wrDate": "2026-03-21T05:33:36+00:00",
       "secondTime": 11824,
-      "secondHolder": "Tv_king",
-      "AT": null,
+      "secondHolder": "Tvee.",
+      "authorTime": null,
       "error": null
     },
     {
@@ -2600,9 +2600,9 @@
       "wrHolder": "sweetjazz.",
       "wrTime": 14548,
       "wrDate": "2026-03-18T18:29:16+00:00",
-      "secondTime": 15527,
-      "secondHolder": "AnalogKbabuser",
-      "AT": null,
+      "secondTime": 15404,
+      "secondHolder": "FrenchWasHere.",
+      "authorTime": null,
       "error": null
     },
     {
@@ -2614,7 +2614,7 @@
       "wrDate": "2026-03-20T16:47:04+00:00",
       "secondTime": 18084,
       "secondHolder": "Dt_921",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2626,7 +2626,7 @@
       "wrDate": "2026-03-24T00:31:58+00:00",
       "secondTime": 15417,
       "secondHolder": "wschseng",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2638,7 +2638,7 @@
       "wrDate": "2026-03-22T05:55:09+00:00",
       "secondTime": 10162,
       "secondHolder": "tvmwfn",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2650,7 +2650,7 @@
       "wrDate": "2026-03-25T11:20:41+00:00",
       "secondTime": 10012,
       "secondHolder": "sweetjazz.",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2660,9 +2660,9 @@
       "wrHolder": "mayu.ra",
       "wrTime": 17650,
       "wrDate": "2026-03-26T01:22:09+00:00",
-      "secondTime": 17990,
-      "secondHolder": "humfreeee",
-      "AT": null,
+      "secondTime": 17735,
+      "secondHolder": "kippys",
+      "authorTime": null,
       "error": null
     },
     {
@@ -2674,7 +2674,7 @@
       "wrDate": "2026-03-26T06:44:49+00:00",
       "secondTime": 17576,
       "secondHolder": "Rayz_Incid",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
@@ -2686,19 +2686,55 @@
       "wrDate": "2026-03-26T21:21:33+00:00",
       "secondTime": 14387,
       "secondHolder": "Hannowofagasta",
-      "AT": null,
+      "authorTime": null,
       "error": null
     },
     {
       "number": 225,
       "name": "Jump#225",
       "uid": "bRGA0jPIytjzzIUcpnDeGWHH3V7",
-      "wrHolder": "horsemeat.",
-      "wrTime": 10290,
-      "wrDate": "2026-03-26T21:02:56+00:00",
-      "secondTime": 10672,
-      "secondHolder": "TigerDragon2121",
-      "AT": null,
+      "wrHolder": "kippys",
+      "wrTime": 9950,
+      "wrDate": "2026-03-28T21:44:11+00:00",
+      "secondTime": 10014,
+      "secondHolder": "Hashbj0rn",
+      "authorTime": null,
+      "error": null
+    },
+    {
+      "number": 226,
+      "name": "Jump#226",
+      "uid": "fTmSPvM9xP9fxfTDEzWgpXsrKU8",
+      "wrHolder": "Never.95",
+      "wrTime": 11398,
+      "wrDate": "2026-03-30T18:07:03+00:00",
+      "secondTime": 11532,
+      "secondHolder": "Teaumma",
+      "authorTime": null,
+      "error": null
+    },
+    {
+      "number": 227,
+      "name": "Jump#227",
+      "uid": "z_pwaK6ExdK527seRwUssLjoKk1",
+      "wrHolder": "eepyabyss",
+      "wrTime": 10086,
+      "wrDate": "2026-03-31T21:44:13+00:00",
+      "secondTime": 10198,
+      "secondHolder": "SrCubie",
+      "authorTime": null,
+      "error": null
+    },
+    {
+      "number": 228,
+      "name": "Jump#228",
+      "uid": "Cmag9ZtbU4XuUhp8UHa72gnY1F9",
+      "wrHolder": "eepyabyss",
+      "wrTime": 10929,
+      "wrDate": "2026-03-31T21:00:06+00:00",
+      "secondTime": 10992,
+      "secondHolder": "Makrellen...",
+      "authorTime": null,
       "error": null
     }
   ]
