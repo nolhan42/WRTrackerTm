@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-01T06:18:33.115Z",
+  "lastUpdate": "2026-05-02T05:39:58.772Z",
   "maps": [
     {
       "number": 1,
@@ -1985,12 +1985,12 @@
       "number": 181,
       "name": "Jump#181",
       "uid": "JfkE7bLC9ikxRVnfv6qo5jIdtN9",
-      "wrHolder": "MachrixTM",
-      "wrTime": 15572,
-      "wrDate": "2026-01-06T20:31:41+00:00",
-      "secondHolder": "LizGrd",
-      "secondTime": 16287,
-      "error": null
+      "wrHolder": null,
+      "wrTime": null,
+      "wrDate": null,
+      "secondHolder": null,
+      "secondTime": null,
+      "error": "HTTP 500"
     },
     {
       "number": 182,
@@ -2373,7 +2373,7 @@
       "wrHolder": "Styx_on_osu",
       "wrTime": 11671,
       "wrDate": "2026-03-21T05:33:36+00:00",
-      "secondHolder": "Tvee.",
+      "secondHolder": "Theo_Tm..",
       "secondTime": 11824,
       "error": null
     },
