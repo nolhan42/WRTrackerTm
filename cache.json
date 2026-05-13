@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-12T06:09:44.750Z",
+  "lastUpdate": "2026-05-13T06:29:50.494Z",
   "maps": [
     {
       "number": 1,
@@ -1303,11 +1303,11 @@
       "number": 119,
       "name": "Jump#119",
       "uid": "uL87glLLGBIWHlt2YgZiZUGWQAm",
-      "wrHolder": "Lopshi",
-      "wrTime": 11641,
-      "wrDate": "2025-03-25T17:39:49+00:00",
-      "secondHolder": "orkla_",
-      "secondTime": 11675,
+      "wrHolder": "MC_Hausmeister",
+      "wrTime": 11638,
+      "wrDate": "2026-05-12T23:43:54+00:00",
+      "secondHolder": "Lopshi",
+      "secondTime": 11641,
       "error": null
     },
     {
@@ -1655,7 +1655,7 @@
       "number": 151,
       "name": "Jump#151",
       "uid": "kxXT3QAO_TMa9cHAkPnd2EDhGgh",
-      "wrHolder": "AnalogKbabuser",
+      "wrHolder": "Analog-.-",
       "wrTime": 11508,
       "wrDate": "2026-03-30T22:16:05+00:00",
       "secondHolder": "Vatsug44",
@@ -2139,11 +2139,11 @@
       "number": 195,
       "name": "Jump#195",
       "uid": "tvHYjQtChs8vj8GDk3lPqFU8dw3",
-      "wrHolder": "Yerkling",
-      "wrTime": 14612,
-      "wrDate": "2026-02-24T00:12:07+00:00",
-      "secondHolder": "loulipo",
-      "secondTime": 15900,
+      "wrHolder": "Limelight-TM",
+      "wrTime": 14605,
+      "wrDate": "2026-05-13T02:16:55+00:00",
+      "secondHolder": "Yerkling",
+      "secondTime": 14612,
       "error": null
     },
     {
