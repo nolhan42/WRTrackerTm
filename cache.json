@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-13T06:29:50.494Z",
+  "lastUpdate": "2026-05-14T06:28:00.896Z",
   "maps": [
     {
       "number": 1,
@@ -888,7 +888,7 @@
       "wrHolder": "skrosps-_-",
       "wrTime": 8345,
       "wrDate": "2026-05-03T09:32:00+00:00",
-      "secondHolder": "oblivion_rl",
+      "secondHolder": "oblivion.TM",
       "secondTime": 8366,
       "error": null
     },
@@ -1064,8 +1064,8 @@
       "wrHolder": "Keeba.",
       "wrTime": 8421,
       "wrDate": "2025-03-30T13:32:55+00:00",
-      "secondHolder": "WirtualTM",
-      "secondTime": 8492,
+      "secondHolder": "Yapi52",
+      "secondTime": 8485,
       "error": null
     },
     {
