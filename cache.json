@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-18T06:59:46.882Z",
+  "lastUpdate": "2026-05-19T06:52:18.514Z",
   "maps": [
     {
       "number": 1,
@@ -412,11 +412,11 @@
       "number": 38,
       "name": "Jump#38",
       "uid": "TvrE54R0HK953FkLM3R315b6a85",
-      "wrHolder": "ZycloneTM",
-      "wrTime": 9529,
-      "wrDate": "2025-04-17T00:11:21+00:00",
-      "secondHolder": "AzuredBlue",
-      "secondTime": 9582,
+      "wrHolder": "eepybinsky.",
+      "wrTime": 9441,
+      "wrDate": "2026-05-19T00:23:18+00:00",
+      "secondHolder": "ZycloneTM",
+      "secondTime": 9529,
       "error": null
     },
     {
@@ -2062,10 +2062,10 @@
       "number": 188,
       "name": "Jump#188",
       "uid": "cUGgYJxqkGc8skwr6TTJG_ff_q4",
-      "wrHolder": "Jxliano",
-      "wrTime": 16018,
-      "wrDate": "2026-02-07T22:17:35+00:00",
-      "secondHolder": "El.Thicc.Boi",
+      "wrHolder": "Yerkling",
+      "wrTime": 15958,
+      "wrDate": "2026-05-18T11:08:19+00:00",
+      "secondHolder": "Jxliano",
       "secondTime": 16018,
       "error": null
     },
