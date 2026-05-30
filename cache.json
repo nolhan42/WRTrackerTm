@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-29T06:57:52.034Z",
+  "lastUpdate": "2026-05-30T06:27:13.045Z",
   "maps": [
     {
       "number": 1,
@@ -555,12 +555,12 @@
       "number": 51,
       "name": "Jump#51",
       "uid": "nqLEekMxCbljuj7ttMbWtwKD8pc",
-      "wrHolder": "Bio_Arcane",
-      "wrTime": 8462,
-      "wrDate": "2024-09-03T06:51:45+00:00",
-      "secondHolder": "isutty5",
-      "secondTime": 8628,
-      "error": null
+      "wrHolder": null,
+      "wrTime": null,
+      "wrDate": null,
+      "secondHolder": null,
+      "secondTime": null,
+      "error": "HTTP 500"
     },
     {
       "number": 52,
