@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-30T06:27:13.045Z",
+  "lastUpdate": "2026-05-31T07:03:29.928Z",
   "maps": [
     {
       "number": 1,
@@ -555,12 +555,12 @@
       "number": 51,
       "name": "Jump#51",
       "uid": "nqLEekMxCbljuj7ttMbWtwKD8pc",
-      "wrHolder": null,
-      "wrTime": null,
-      "wrDate": null,
-      "secondHolder": null,
-      "secondTime": null,
-      "error": "HTTP 500"
+      "wrHolder": "Bio_Arcane",
+      "wrTime": 8462,
+      "wrDate": "2024-09-03T06:51:45+00:00",
+      "secondHolder": "isutty5",
+      "secondTime": 8628,
+      "error": null
     },
     {
       "number": 52,
@@ -2194,11 +2194,11 @@
       "number": 200,
       "name": "Jump#200",
       "uid": "glZYVwzgS5H4u3oVOQ9jwxroTS2",
-      "wrHolder": "Jadles104",
-      "wrTime": 8214,
-      "wrDate": "2026-02-26T22:36:27+00:00",
-      "secondHolder": "xluketx",
-      "secondTime": 8352,
+      "wrHolder": "rattarme23",
+      "wrTime": 8194,
+      "wrDate": "2026-05-31T05:48:47+00:00",
+      "secondHolder": "Jadles104",
+      "secondTime": 8214,
       "error": null
     },
     {
@@ -2417,8 +2417,8 @@
       "wrHolder": "Vray_Z",
       "wrTime": 9831,
       "wrDate": "2026-03-22T05:55:09+00:00",
-      "secondHolder": "tvmwfn",
-      "secondTime": 10162,
+      "secondHolder": "Kellap",
+      "secondTime": 10015,
       "error": null
     },
     {
@@ -2535,11 +2535,11 @@
       "number": 231,
       "name": "Jump#231",
       "uid": "BRe0NLTmmB8jeOw8fX1nway4lzi",
-      "wrHolder": "Deredeld",
-      "wrTime": 17818,
-      "wrDate": "2026-04-14T18:48:02+00:00",
-      "secondHolder": "klarttillhalv",
-      "secondTime": 17958,
+      "wrHolder": "Bananaboy45678",
+      "wrTime": 17785,
+      "wrDate": "2026-05-30T23:06:25+00:00",
+      "secondHolder": "Deredeld",
+      "secondTime": 17818,
       "error": null
     }
   ]
