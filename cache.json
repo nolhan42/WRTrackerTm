@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-15T09:03:34.579Z",
+  "lastUpdate": "2026-06-16T08:50:17.299Z",
   "maps": [
     {
       "number": 1,
@@ -1842,11 +1842,11 @@
       "number": 168,
       "name": "Jump#168",
       "uid": "u9GmcSgOyVG_fLo_HAw4LKyBdUf",
-      "wrHolder": "skrosps-_-",
-      "wrTime": 16754,
-      "wrDate": "2026-04-28T15:55:57+00:00",
-      "secondHolder": "Yen_.",
-      "secondTime": 16822,
+      "wrHolder": "erom96",
+      "wrTime": 16658,
+      "wrDate": "2026-06-15T20:45:52+00:00",
+      "secondHolder": "skrosps-_-",
+      "secondTime": 16754,
       "error": null
     },
     {
@@ -1886,12 +1886,12 @@
       "number": 172,
       "name": "Jump#172",
       "uid": "cHA0RMSZNYmRQ5G8pXcNRCkUff7",
-      "wrHolder": "Huba.Bibi",
-      "wrTime": 12742,
-      "wrDate": "2026-01-19T18:53:26+00:00",
-      "secondHolder": "LucaSniperTrick",
-      "secondTime": 12752,
-      "error": null
+      "wrHolder": null,
+      "wrTime": null,
+      "wrDate": null,
+      "secondHolder": null,
+      "secondTime": null,
+      "error": "HTTP 500"
     },
     {
       "number": 173,
