@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-16T08:50:17.299Z",
+  "lastUpdate": "2026-06-17T08:33:51.674Z",
   "maps": [
     {
       "number": 1,
@@ -1193,11 +1193,11 @@
       "number": 109,
       "name": "Jump#109",
       "uid": "TwP1DS_KogWpVJgMByQ9gXuQ8Hg",
-      "wrHolder": "RedHeadedHawk",
-      "wrTime": 15435,
-      "wrDate": "2025-05-22T01:53:18+00:00",
-      "secondHolder": "DarknessEoL",
-      "secondTime": 15438,
+      "wrHolder": "Avianna_Agile",
+      "wrTime": 15418,
+      "wrDate": "2026-06-16T19:41:00+00:00",
+      "secondHolder": "RedHeadedHawk",
+      "secondTime": 15435,
       "error": null
     },
     {
@@ -1886,12 +1886,12 @@
       "number": 172,
       "name": "Jump#172",
       "uid": "cHA0RMSZNYmRQ5G8pXcNRCkUff7",
-      "wrHolder": null,
-      "wrTime": null,
-      "wrDate": null,
-      "secondHolder": null,
-      "secondTime": null,
-      "error": "HTTP 500"
+      "wrHolder": "Huba.Bibi",
+      "wrTime": 12742,
+      "wrDate": "2026-01-19T18:53:26+00:00",
+      "secondHolder": "LucaSniperTrick",
+      "secondTime": 12752,
+      "error": null
     },
     {
       "number": 173,
