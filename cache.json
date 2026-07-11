@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-22T09:01:47.884Z",
+  "lastUpdate": "2026-07-10T06:46:24.110Z",
   "maps": [
     {
       "number": 1,
@@ -93,7 +93,7 @@
       "number": 9,
       "name": "Jump#9",
       "uid": "kqRz9UtUFA0Mvf2Ya46ETC906Fm",
-      "wrHolder": "solaa-",
+      "wrHolder": "MorGueul",
       "wrTime": 6126,
       "wrDate": "2024-07-03T19:55:01+00:00",
       "secondHolder": "GJJameson",
@@ -412,7 +412,7 @@
       "number": 38,
       "name": "Jump#38",
       "uid": "TvrE54R0HK953FkLM3R315b6a85",
-      "wrHolder": "eepybinsky.",
+      "wrHolder": "binsky.",
       "wrTime": 9396,
       "wrDate": "2026-05-27T20:41:43+00:00",
       "secondHolder": "Fatelyed",
@@ -1204,11 +1204,11 @@
       "number": 110,
       "name": "Jump#110",
       "uid": "VmEgtw2AONawBt32HH3VHZrAMVc",
-      "wrHolder": "UnprovenRuben",
-      "wrTime": 14428,
-      "wrDate": "2025-06-03T13:00:59+00:00",
-      "secondHolder": "miikapekka",
-      "secondTime": 14518,
+      "wrHolder": "Sir_Lysergium",
+      "wrTime": 14345,
+      "wrDate": "2026-07-07T13:27:41+00:00",
+      "secondHolder": "UnprovenRuben",
+      "secondTime": 14428,
       "error": null
     },
     {
@@ -1372,8 +1372,8 @@
       "wrHolder": "STEEBLY",
       "wrTime": 16126,
       "wrDate": "2024-10-16T03:14:24+00:00",
-      "secondHolder": "Luciaaa42_",
-      "secondTime": 16283,
+      "secondHolder": "OreoDoodle",
+      "secondTime": 16211,
       "error": null
     },
     {
@@ -1831,11 +1831,11 @@
       "number": 167,
       "name": "Jump#167",
       "uid": "LTI7R36sHOL3pwlrQte7dU0DB30",
-      "wrHolder": "nejcig",
-      "wrTime": 14934,
-      "wrDate": "2025-08-23T16:18:58+00:00",
-      "secondHolder": "hayiom..",
-      "secondTime": 14996,
+      "wrHolder": "Danifill",
+      "wrTime": 14888,
+      "wrDate": "2026-06-27T19:29:38+00:00",
+      "secondHolder": "nejcig",
+      "secondTime": 14934,
       "error": null
     },
     {
@@ -1988,8 +1988,8 @@
       "wrHolder": "MachrixTM",
       "wrTime": 15572,
       "wrDate": "2026-01-06T20:31:41+00:00",
-      "secondHolder": "Forecaster2016",
-      "secondTime": 15901,
+      "secondHolder": "AwayFridish",
+      "secondTime": 15787,
       "error": null
     },
     {
@@ -2337,11 +2337,11 @@
       "number": 213,
       "name": "Jump#213",
       "uid": "6VczUIy9Lt0WK1M0nPno2NLr6Nm",
-      "wrHolder": "Deeko..",
-      "wrTime": 10272,
-      "wrDate": "2026-03-17T17:02:47+00:00",
-      "secondHolder": "Bluefox_TM",
-      "secondTime": 10275,
+      "wrHolder": "docky..",
+      "wrTime": 10198,
+      "wrDate": "2026-06-29T20:12:39+00:00",
+      "secondHolder": "Vendetta.95",
+      "secondTime": 10220,
       "error": null
     },
     {
@@ -2540,6 +2540,17 @@
       "wrDate": "2026-05-30T23:06:25+00:00",
       "secondHolder": "Deredeld",
       "secondTime": 17818,
+      "error": null
+    },
+    {
+      "number": 232,
+      "name": "Jump#232",
+      "uid": "ITfjmv1Uc4QbP16Z2A4EL0bbnPd",
+      "wrHolder": "Deredeld",
+      "wrTime": 18364,
+      "wrDate": "2026-05-26T16:48:20+00:00",
+      "secondHolder": "danjan17",
+      "secondTime": 18453,
       "error": null
     }
   ]
