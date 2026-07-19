@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-18T05:27:40.272Z",
+  "lastUpdate": "2026-07-19T05:53:10.225Z",
   "maps": [
     {
       "number": 1,
@@ -2606,6 +2606,50 @@
       "wrDate": "2026-07-09T00:55:20+00:00",
       "secondHolder": "morbiius",
       "secondTime": 11706,
+      "error": null
+    },
+    {
+      "number": 238,
+      "name": "Jump#238",
+      "uid": "3TYN9SzbMoz1SWFytNuEZ8bvYQk",
+      "wrHolder": "mnS__",
+      "wrTime": 15704,
+      "wrDate": "2026-07-11T15:38:56+00:00",
+      "secondHolder": "zmHz",
+      "secondTime": 15778,
+      "error": null
+    },
+    {
+      "number": 239,
+      "name": "Jump#239",
+      "uid": "QtQVFpFI6CUJsqkGAiuzBU6Pxcc",
+      "wrHolder": "pipo.._..",
+      "wrTime": 17935,
+      "wrDate": "2026-07-12T11:16:22+00:00",
+      "secondHolder": "theriankittydog",
+      "secondTime": 17950,
+      "error": null
+    },
+    {
+      "number": 240,
+      "name": "Jump#240",
+      "uid": "Bj_xT6ZxWVqmL0ahjlEF6EVTIc5",
+      "wrHolder": "sauuceytm",
+      "wrTime": 17786,
+      "wrDate": "2026-07-18T13:08:07+00:00",
+      "secondHolder": "TAS...",
+      "secondTime": 17860,
+      "error": null
+    },
+    {
+      "number": 241,
+      "name": "Jump#241",
+      "uid": "UgqMnOqNbSIwGdcrXwx3wzGsy1b",
+      "wrHolder": "Juphie",
+      "wrTime": 22778,
+      "wrDate": "2026-07-18T12:14:48+00:00",
+      "secondHolder": null,
+      "secondTime": null,
       "error": null
     }
   ]
