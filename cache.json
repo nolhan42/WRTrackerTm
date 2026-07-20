@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-19T05:53:10.225Z",
+  "lastUpdate": "2026-07-20T06:19:02.432Z",
   "maps": [
     {
       "number": 1,
@@ -899,7 +899,7 @@
       "wrHolder": "Spacing.",
       "wrTime": 11776,
       "wrDate": "2026-01-22T18:42:18+00:00",
-      "secondHolder": "ROtrexdotdot",
+      "secondHolder": "ROtrex_The_TRex",
       "secondTime": 11814,
       "error": null
     },
@@ -2106,12 +2106,12 @@
       "number": 192,
       "name": "Jump#192",
       "uid": "M3HkxlsHfsEoSXO1mBdYZM8fGN7",
-      "wrHolder": "eebbi",
-      "wrTime": 15028,
-      "wrDate": "2026-04-07T15:33:55+00:00",
-      "secondHolder": "wrain_.",
-      "secondTime": 15493,
-      "error": null
+      "wrHolder": null,
+      "wrTime": null,
+      "wrDate": null,
+      "secondHolder": null,
+      "secondTime": null,
+      "error": "HTTP 500"
     },
     {
       "number": 193,
