@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-20T06:19:02.432Z",
+  "lastUpdate": "2026-07-21T05:52:15.813Z",
   "maps": [
     {
       "number": 1,
@@ -515,7 +515,7 @@
       "wrTime": 14048,
       "wrDate": "2026-07-17T22:15:55+00:00",
       "secondHolder": "Tim888881",
-      "secondTime": 14087,
+      "secondTime": 14084,
       "error": null
     },
     {
@@ -2106,12 +2106,12 @@
       "number": 192,
       "name": "Jump#192",
       "uid": "M3HkxlsHfsEoSXO1mBdYZM8fGN7",
-      "wrHolder": null,
-      "wrTime": null,
-      "wrDate": null,
-      "secondHolder": null,
-      "secondTime": null,
-      "error": "HTTP 500"
+      "wrHolder": "eebbi",
+      "wrTime": 15028,
+      "wrDate": "2026-04-07T15:33:55+00:00",
+      "secondHolder": "wrain_.",
+      "secondTime": 15493,
+      "error": null
     },
     {
       "number": 193,
@@ -2219,8 +2219,8 @@
       "wrHolder": "sweetjazz.",
       "wrTime": 11371,
       "wrDate": "2026-02-27T18:20:16+00:00",
-      "secondHolder": "Shnombler",
-      "secondTime": 12044,
+      "secondHolder": "PeterGrippinTM",
+      "secondTime": 11752,
       "error": null
     },
     {
