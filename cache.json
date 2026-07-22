@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-21T05:52:15.813Z",
+  "lastUpdate": "2026-07-22T05:51:05.465Z",
   "maps": [
     {
       "number": 1,
@@ -1471,7 +1471,7 @@
       "wrHolder": "eLconn21",
       "wrTime": 10344,
       "wrDate": "2025-02-04T17:34:26+00:00",
-      "secondHolder": "WashedNowa",
+      "secondHolder": "Nowawawawawawa",
       "secondTime": 10394,
       "error": null
     },
@@ -2018,12 +2018,12 @@
       "number": 184,
       "name": "Jump#184",
       "uid": "XqgqxxSJMVRGye9eZ8SXScqQAk8",
-      "wrHolder": "TAS...",
-      "wrTime": 17754,
-      "wrDate": "2026-01-09T17:53:53+00:00",
-      "secondHolder": "Jam.TM",
-      "secondTime": 17778,
-      "error": null
+      "wrHolder": null,
+      "wrTime": null,
+      "wrDate": null,
+      "secondHolder": null,
+      "secondTime": null,
+      "error": "HTTP 500"
     },
     {
       "number": 185,
@@ -2516,8 +2516,8 @@
       "wrHolder": "Haxed420",
       "wrTime": 10341,
       "wrDate": "2026-04-06T17:45:49+00:00",
-      "secondHolder": "puchmu",
-      "secondTime": 10678,
+      "secondHolder": "TMHornet.",
+      "secondTime": 10612,
       "error": null
     },
     {
@@ -2623,11 +2623,11 @@
       "number": 239,
       "name": "Jump#239",
       "uid": "QtQVFpFI6CUJsqkGAiuzBU6Pxcc",
-      "wrHolder": "pipo.._..",
-      "wrTime": 17935,
-      "wrDate": "2026-07-12T11:16:22+00:00",
-      "secondHolder": "theriankittydog",
-      "secondTime": 17950,
+      "wrHolder": "kalasieni",
+      "wrTime": 17901,
+      "wrDate": "2026-07-21T14:14:38+00:00",
+      "secondHolder": "pipo.._..",
+      "secondTime": 17935,
       "error": null
     },
     {
@@ -2645,11 +2645,11 @@
       "number": 241,
       "name": "Jump#241",
       "uid": "UgqMnOqNbSIwGdcrXwx3wzGsy1b",
-      "wrHolder": "Juphie",
-      "wrTime": 22778,
-      "wrDate": "2026-07-18T12:14:48+00:00",
-      "secondHolder": null,
-      "secondTime": null,
+      "wrHolder": "NOODLEWAVEFAN",
+      "wrTime": 22592,
+      "wrDate": "2026-07-21T16:58:10+00:00",
+      "secondHolder": "Juphie",
+      "secondTime": 22778,
       "error": null
     }
   ]
