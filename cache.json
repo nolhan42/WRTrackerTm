@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-22T05:51:05.465Z",
+  "lastUpdate": "2026-07-23T05:56:21.266Z",
   "maps": [
     {
       "number": 1,
@@ -1028,11 +1028,11 @@
       "number": 94,
       "name": "Jump#94",
       "uid": "NdgsJV2SL6gyAQIOVkqmAjvNcok",
-      "wrHolder": "Patale_",
-      "wrTime": 10625,
-      "wrDate": "2025-08-15T16:31:36+00:00",
-      "secondHolder": "ELDI.",
-      "secondTime": 10634,
+      "wrHolder": "JULSEMANN",
+      "wrTime": 10605,
+      "wrDate": "2026-07-22T19:04:05+00:00",
+      "secondHolder": "Patale_",
+      "secondTime": 10625,
       "error": null
     },
     {
@@ -2018,12 +2018,12 @@
       "number": 184,
       "name": "Jump#184",
       "uid": "XqgqxxSJMVRGye9eZ8SXScqQAk8",
-      "wrHolder": null,
-      "wrTime": null,
-      "wrDate": null,
-      "secondHolder": null,
-      "secondTime": null,
-      "error": "HTTP 500"
+      "wrHolder": "TAS...",
+      "wrTime": 17754,
+      "wrDate": "2026-01-09T17:53:53+00:00",
+      "secondHolder": "Jam.TM",
+      "secondTime": 17778,
+      "error": null
     },
     {
       "number": 185,
@@ -2219,8 +2219,8 @@
       "wrHolder": "sweetjazz.",
       "wrTime": 11371,
       "wrDate": "2026-02-27T18:20:16+00:00",
-      "secondHolder": "PeterGrippinTM",
-      "secondTime": 11752,
+      "secondHolder": "AChefla",
+      "secondTime": 11690,
       "error": null
     },
     {
