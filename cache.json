@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-15T03:42:32.622Z",
+  "lastUpdate": "2026-08-16T03:51:24.725Z",
   "maps": [
     {
       "number": 1,
@@ -1039,11 +1039,11 @@
       "number": 95,
       "name": "Jump#95",
       "uid": "kPeu0K_o9pS6KzVHcHKfU8qZoCj",
-      "wrHolder": "Never.95",
-      "wrTime": 10195,
-      "wrDate": "2026-03-08T20:51:09+00:00",
-      "secondHolder": "puchmu",
-      "secondTime": 10238,
+      "wrHolder": "Vray_Z",
+      "wrTime": 10125,
+      "wrDate": "2026-08-15T19:50:56+00:00",
+      "secondHolder": "Never.95",
+      "secondTime": 10195,
       "error": null
     },
     {
@@ -2428,7 +2428,7 @@
       "wrHolder": "lcs62",
       "wrTime": 9901,
       "wrDate": "2026-05-14T12:35:01+00:00",
-      "secondHolder": "cometasidn",
+      "secondHolder": "Boasyyy",
       "secondTime": 9975,
       "error": null
     },
