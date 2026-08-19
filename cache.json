@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-18T03:48:22.954Z",
+  "lastUpdate": "2026-08-19T03:49:40.266Z",
   "maps": [
     {
       "number": 1,
@@ -899,7 +899,7 @@
       "wrHolder": "Spacing.",
       "wrTime": 11776,
       "wrDate": "2026-01-22T18:42:18+00:00",
-      "secondHolder": "ROtrex_The_TRex",
+      "secondHolder": "ROtrex..",
       "secondTime": 11814,
       "error": null
     },
@@ -1039,11 +1039,11 @@
       "number": 95,
       "name": "Jump#95",
       "uid": "kPeu0K_o9pS6KzVHcHKfU8qZoCj",
-      "wrHolder": "Vray_Z",
-      "wrTime": 10125,
-      "wrDate": "2026-08-15T19:50:56+00:00",
-      "secondHolder": "Never.95",
-      "secondTime": 10195,
+      "wrHolder": "Never.95",
+      "wrTime": 10050,
+      "wrDate": "2026-08-18T21:37:28+00:00",
+      "secondHolder": "Vray_Z",
+      "secondTime": 10125,
       "error": null
     },
     {
@@ -1424,23 +1424,23 @@
       "number": 130,
       "name": "Jump#130",
       "uid": "g6lBtMsmqtuzOAB7BgeSSHCWkg2",
-      "wrHolder": "RedHeadedHawk",
-      "wrTime": 15454,
-      "wrDate": "2025-06-11T01:19:20+00:00",
-      "secondHolder": "Bedeux_TM",
-      "secondTime": 15611,
-      "error": null
+      "wrHolder": null,
+      "wrTime": null,
+      "wrDate": null,
+      "secondHolder": null,
+      "secondTime": null,
+      "error": "HTTP 500"
     },
     {
       "number": 131,
       "name": "Jump#131",
       "uid": "EoxBia60FkHl85DuAKEVB6TspJh",
-      "wrHolder": "Wiz5914",
-      "wrTime": 12191,
-      "wrDate": "2024-09-19T18:58:30+00:00",
-      "secondHolder": "Mustufa_Baig_",
-      "secondTime": 12200,
-      "error": null
+      "wrHolder": null,
+      "wrTime": null,
+      "wrDate": null,
+      "secondHolder": null,
+      "secondTime": null,
+      "error": "HTTP 500"
     },
     {
       "number": 132,
@@ -1823,7 +1823,7 @@
       "wrHolder": "Cyberneti-X",
       "wrTime": 14965,
       "wrDate": "2025-08-21T16:53:16+00:00",
-      "secondHolder": "MouldySlippers",
+      "secondHolder": "DudeNamedAndy",
       "secondTime": 14981,
       "error": null
     },
