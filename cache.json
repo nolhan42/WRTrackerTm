@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-22T03:45:31.793Z",
+  "lastUpdate": "2026-08-23T03:53:03.224Z",
   "maps": [
     {
       "number": 1,
@@ -976,8 +976,8 @@
       "wrHolder": "Nowawawawawawa",
       "wrTime": 9824,
       "wrDate": "2026-08-02T10:04:06+00:00",
-      "secondHolder": "BavvFC",
-      "secondTime": 9847,
+      "secondHolder": "nicigoogle",
+      "secondTime": 9837,
       "error": null
     },
     {
@@ -2683,6 +2683,28 @@
       "wrDate": "2026-08-04T20:41:56+00:00",
       "secondHolder": "DankusMemicus",
       "secondTime": 13525,
+      "error": null
+    },
+    {
+      "number": 245,
+      "name": "Jump#245",
+      "uid": "udTg7DO00GxpVmJODQx73CHdDlj",
+      "wrHolder": "TalpX",
+      "wrTime": 13447,
+      "wrDate": "2026-08-22T15:26:44+00:00",
+      "secondHolder": "MaddziTV",
+      "secondTime": 13497,
+      "error": null
+    },
+    {
+      "number": 246,
+      "name": "Jump#246",
+      "uid": "oyCC_1cffkyLbcdYOiIel4MCfFm",
+      "wrHolder": "Lavadeamon",
+      "wrTime": 11741,
+      "wrDate": "2026-08-22T17:54:59+00:00",
+      "secondHolder": "Dakhaa",
+      "secondTime": 11773,
       "error": null
     }
   ]
