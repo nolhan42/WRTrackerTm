@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-23T03:53:03.224Z",
+  "lastUpdate": "2026-08-24T03:56:50.175Z",
   "maps": [
     {
       "number": 1,
@@ -1394,8 +1394,8 @@
       "wrHolder": "RevertTM.",
       "wrTime": 13268,
       "wrDate": "2025-12-21T00:59:25+00:00",
-      "secondHolder": "iiHugo",
-      "secondTime": 13340,
+      "secondHolder": "emusic38",
+      "secondTime": 13304,
       "error": null
     },
     {
@@ -2205,11 +2205,11 @@
       "number": 201,
       "name": "Jump#201",
       "uid": "zW38dIyuaRJII_ZqvnQTaMefIc4",
-      "wrHolder": "BUXKSK_",
-      "wrTime": 11594,
-      "wrDate": "2026-03-06T18:57:20+00:00",
-      "secondHolder": "xluketx",
-      "secondTime": 11628,
+      "wrHolder": "Tekky..",
+      "wrTime": 11485,
+      "wrDate": "2026-08-23T15:11:29+00:00",
+      "secondHolder": "BUXKSK_",
+      "secondTime": 11594,
       "error": null
     },
     {
@@ -2414,11 +2414,11 @@
       "number": 220,
       "name": "Jump#220",
       "uid": "HtceXqmqEF4merQ3r2y3cfPfSPh",
-      "wrHolder": "Vray_Z",
-      "wrTime": 9831,
-      "wrDate": "2026-03-22T05:55:09+00:00",
-      "secondHolder": "Kellap",
-      "secondTime": 10015,
+      "wrHolder": "tuosep",
+      "wrTime": 9802,
+      "wrDate": "2026-08-23T15:33:39+00:00",
+      "secondHolder": "Vray_Z",
+      "secondTime": 9831,
       "error": null
     },
     {
@@ -2689,22 +2689,22 @@
       "number": 245,
       "name": "Jump#245",
       "uid": "udTg7DO00GxpVmJODQx73CHdDlj",
-      "wrHolder": "TalpX",
-      "wrTime": 13447,
-      "wrDate": "2026-08-22T15:26:44+00:00",
-      "secondHolder": "MaddziTV",
-      "secondTime": 13497,
+      "wrHolder": "DarrahTM",
+      "wrTime": 13265,
+      "wrDate": "2026-08-23T12:53:53+00:00",
+      "secondHolder": "TalpX",
+      "secondTime": 13447,
       "error": null
     },
     {
       "number": 246,
       "name": "Jump#246",
       "uid": "oyCC_1cffkyLbcdYOiIel4MCfFm",
-      "wrHolder": "Lavadeamon",
-      "wrTime": 11741,
-      "wrDate": "2026-08-22T17:54:59+00:00",
-      "secondHolder": "Dakhaa",
-      "secondTime": 11773,
+      "wrHolder": "Bennixx_",
+      "wrTime": 11654,
+      "wrDate": "2026-08-23T11:49:22+00:00",
+      "secondHolder": "Lavadeamon",
+      "secondTime": 11741,
       "error": null
     }
   ]
