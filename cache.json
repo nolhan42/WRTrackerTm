@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-01T08:19:57.107Z",
+  "lastUpdate": "2026-09-02T07:39:04.252Z",
   "maps": [
     {
       "number": 1,
@@ -2535,11 +2535,11 @@
       "number": 231,
       "name": "Jump#231",
       "uid": "BRe0NLTmmB8jeOw8fX1nway4lzi",
-      "wrHolder": "btx0",
-      "wrTime": 17741,
-      "wrDate": "2026-09-01T02:47:28+00:00",
-      "secondHolder": "Flopper_TM",
-      "secondTime": 17754,
+      "wrHolder": "Flopper_TM",
+      "wrTime": 17673,
+      "wrDate": "2026-09-01T10:06:22+00:00",
+      "secondHolder": "btx0",
+      "secondTime": 17741,
       "error": null
     },
     {
