@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-16T08:19:11.945Z",
+  "lastUpdate": "2026-09-17T08:25:32.971Z",
   "maps": [
     {
       "number": 1,
@@ -2705,6 +2705,50 @@
       "wrDate": "2026-08-23T11:49:22+00:00",
       "secondHolder": "Lavadeamon",
       "secondTime": 11741,
+      "error": null
+    },
+    {
+      "number": 247,
+      "name": "Jump#247",
+      "uid": "7Njuu6gboKJmb8Ax4MGk3Wxi8N2",
+      "wrHolder": "Flopper_TM",
+      "wrTime": 13871,
+      "wrDate": "2026-08-28T22:01:01+00:00",
+      "secondHolder": "TwinsNaA",
+      "secondTime": 13885,
+      "error": null
+    },
+    {
+      "number": 248,
+      "name": "Jump#248",
+      "uid": "OWv8JNcXclcwoq2xhfNqqE4Zaea",
+      "wrHolder": "P.E.X",
+      "wrTime": 14871,
+      "wrDate": "2026-08-31T17:41:52+00:00",
+      "secondHolder": "Juphie",
+      "secondTime": 15047,
+      "error": null
+    },
+    {
+      "number": 249,
+      "name": "Jump#249",
+      "uid": "An2jHKaS8InSTYncg_eq4nT4Sg0",
+      "wrHolder": "Tep1c19",
+      "wrTime": 13187,
+      "wrDate": "2026-09-05T10:41:11+00:00",
+      "secondHolder": "Midnight.TM-_-",
+      "secondTime": 14359,
+      "error": null
+    },
+    {
+      "number": 250,
+      "name": "Jump#250",
+      "uid": "XPbcwzY_XTRzsdlSLawSKnkegBi",
+      "wrHolder": "Spartengamer",
+      "wrTime": 15387,
+      "wrDate": "2026-09-12T14:24:52+00:00",
+      "secondHolder": "TheFoxy_3000",
+      "secondTime": 25952,
       "error": null
     }
   ]
