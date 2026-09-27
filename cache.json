@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-26T08:21:45.810Z",
+  "lastUpdate": "2026-09-27T08:57:44.098Z",
   "maps": [
     {
       "number": 1,
@@ -2337,23 +2337,23 @@
       "number": 213,
       "name": "Jump#213",
       "uid": "6VczUIy9Lt0WK1M0nPno2NLr6Nm",
-      "wrHolder": "docky..",
-      "wrTime": 10198,
-      "wrDate": "2026-06-29T20:12:39+00:00",
-      "secondHolder": "Vendetta.95",
-      "secondTime": 10220,
-      "error": null
+      "wrHolder": null,
+      "wrTime": null,
+      "wrDate": null,
+      "secondHolder": null,
+      "secondTime": null,
+      "error": "HTTP 500"
     },
     {
       "number": 214,
       "name": "Jump#214",
       "uid": "azVk39_XYJJZ8S20fnMaloqVdhh",
-      "wrHolder": "Roquett",
-      "wrTime": 13579,
-      "wrDate": "2026-03-23T21:29:39+00:00",
-      "secondHolder": "KetchupDisliker",
-      "secondTime": 13589,
-      "error": null
+      "wrHolder": null,
+      "wrTime": null,
+      "wrDate": null,
+      "secondHolder": null,
+      "secondTime": null,
+      "error": "HTTP 500"
     },
     {
       "number": 215,
