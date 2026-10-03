@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-02T09:22:46.688Z",
+  "lastUpdate": "2026-10-03T08:55:33.889Z",
   "maps": [
     {
       "number": 1,
@@ -2749,6 +2749,72 @@
       "wrDate": "2026-09-12T14:24:52+00:00",
       "secondHolder": "Juphie",
       "secondTime": 15662,
+      "error": null
+    },
+    {
+      "number": 251,
+      "name": "Jump#251",
+      "uid": "aixo3AwCdS4anoU4w_Wwscpkrmf",
+      "wrHolder": "HanBolo",
+      "wrTime": 15421,
+      "wrDate": "2026-09-26T19:01:41+00:00",
+      "secondHolder": "Getsu..",
+      "secondTime": 15491,
+      "error": null
+    },
+    {
+      "number": 252,
+      "name": "Jump#252",
+      "uid": "3LNS9XM6JTlgEwZ5fIyTLmRzUT4",
+      "wrHolder": "Getsu..",
+      "wrTime": 12315,
+      "wrDate": "2026-09-26T13:12:49+00:00",
+      "secondHolder": "smooo949",
+      "secondTime": 13497,
+      "error": null
+    },
+    {
+      "number": 253,
+      "name": "Jump#253",
+      "uid": "LylEHQWmMQHMMkXfw4HQxz4KtM",
+      "wrHolder": "Getsu..",
+      "wrTime": 16082,
+      "wrDate": "2026-09-26T14:55:03+00:00",
+      "secondHolder": "OwlsAreVeryCool",
+      "secondTime": 16162,
+      "error": null
+    },
+    {
+      "number": 254,
+      "name": "Jump#254",
+      "uid": "G11RrRv7nRc8UhPAkrRuAWw1gB3",
+      "wrHolder": "Feraligat_r",
+      "wrTime": 12778,
+      "wrDate": "2026-10-02T09:39:16+00:00",
+      "secondHolder": "Cristal.TM",
+      "secondTime": 12983,
+      "error": null
+    },
+    {
+      "number": 255,
+      "name": "Jump#255",
+      "uid": "CjBRPafc47I9Fvdprc8iuPITXoc",
+      "wrHolder": "kalasieni",
+      "wrTime": 17110,
+      "wrDate": "2026-10-02T21:10:36+00:00",
+      "secondHolder": null,
+      "secondTime": null,
+      "error": null
+    },
+    {
+      "number": 256,
+      "name": "Jump#256",
+      "uid": "JdjAvQLxKU13lmvoeJbsYAt1Oce",
+      "wrHolder": "B3RTEN",
+      "wrTime": 20315,
+      "wrDate": "2026-10-02T16:32:09+00:00",
+      "secondHolder": "Joebleau",
+      "secondTime": 21234,
       "error": null
     }
   ]
