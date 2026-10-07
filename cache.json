@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-06T09:50:07.202Z",
+  "lastUpdate": "2026-10-07T09:46:24.717Z",
   "maps": [
     {
       "number": 1,
@@ -203,11 +203,11 @@
       "number": 19,
       "name": "Jump#19",
       "uid": "9vuBpRnqe1VgYbAvnYlWL9r6AH3",
-      "wrHolder": "FoxFaceTM",
-      "wrTime": 8017,
-      "wrDate": "2024-03-26T14:17:03+00:00",
-      "secondHolder": "ShadowsCurses",
-      "secondTime": 8045,
+      "wrHolder": "LucaSniperTrick",
+      "wrTime": 7995,
+      "wrDate": "2026-10-06T12:58:42+00:00",
+      "secondHolder": "FoxFaceTM",
+      "secondTime": 8017,
       "error": null
     },
     {
@@ -2239,10 +2239,10 @@
       "name": "Jump#204",
       "uid": "vgp3SR0bjWG11Jf5r8XnQR1_7jd",
       "wrHolder": "Flopper_TM",
-      "wrTime": 12824,
-      "wrDate": "2026-08-28T20:45:15+00:00",
-      "secondHolder": "Jess.TM",
-      "secondTime": 12935,
+      "wrTime": 12680,
+      "wrDate": "2026-10-07T09:32:51+00:00",
+      "secondHolder": "Yerkling",
+      "secondTime": 12782,
       "error": null
     },
     {
@@ -2403,7 +2403,7 @@
       "number": 219,
       "name": "Jump#219",
       "uid": "xJTcvcV_8SOTx50dDOazi6Qja_g",
-      "wrHolder": "shark.___",
+      "wrHolder": "noname8886",
       "wrTime": 14715,
       "wrDate": "2026-08-28T13:44:15+00:00",
       "secondHolder": "feitaan.",
