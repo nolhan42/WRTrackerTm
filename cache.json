@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-11T09:42:04.823Z",
+  "lastUpdate": "2026-10-12T10:12:47.620Z",
   "maps": [
     {
       "number": 1,
@@ -413,8 +413,8 @@
       "name": "Jump#38",
       "uid": "TvrE54R0HK953FkLM3R315b6a85",
       "wrHolder": "binsky.",
-      "wrTime": 9396,
-      "wrDate": "2026-05-27T20:41:43+00:00",
+      "wrTime": 9356,
+      "wrDate": "2026-10-12T04:52:13+00:00",
       "secondHolder": "Fatelyed",
       "secondTime": 9454,
       "error": null
@@ -2238,11 +2238,11 @@
       "number": 204,
       "name": "Jump#204",
       "uid": "vgp3SR0bjWG11Jf5r8XnQR1_7jd",
-      "wrHolder": "Flopper_TM",
-      "wrTime": 12680,
-      "wrDate": "2026-10-07T09:32:51+00:00",
-      "secondHolder": "Yerkling",
-      "secondTime": 12782,
+      "wrHolder": "Yerkling",
+      "wrTime": 12495,
+      "wrDate": "2026-10-11T14:17:55+00:00",
+      "secondHolder": "Flopper_TM",
+      "secondTime": 12680,
       "error": null
     },
     {
@@ -2799,11 +2799,11 @@
       "number": 255,
       "name": "Jump#255",
       "uid": "CjBRPafc47I9Fvdprc8iuPITXoc",
-      "wrHolder": "kalasieni",
-      "wrTime": 17110,
-      "wrDate": "2026-10-02T21:10:36+00:00",
-      "secondHolder": "Yuri.June",
-      "secondTime": 21600,
+      "wrHolder": "ef1o",
+      "wrTime": 16924,
+      "wrDate": "2026-10-11T11:50:50+00:00",
+      "secondHolder": "kalasieni",
+      "secondTime": 17110,
       "error": null
     },
     {
