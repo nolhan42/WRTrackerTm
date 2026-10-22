@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-21T08:20:04.585Z",
+  "lastUpdate": "2026-10-22T08:20:55.704Z",
   "maps": [
     {
       "number": 1,
@@ -2271,11 +2271,11 @@
       "number": 207,
       "name": "Jump#207",
       "uid": "EFzCU5qgyhBUfVkeKq8JI8y7Jt8",
-      "wrHolder": "FABIXANDER",
-      "wrTime": 9163,
-      "wrDate": "2026-04-04T13:08:51+00:00",
-      "secondHolder": "Fuze_._",
-      "secondTime": 9167,
+      "wrHolder": "OriginalCJM",
+      "wrTime": 9162,
+      "wrDate": "2026-10-21T12:38:39+00:00",
+      "secondHolder": "FABIXANDER",
+      "secondTime": 9163,
       "error": null
     },
     {
@@ -2810,12 +2810,12 @@
       "number": 256,
       "name": "Jump#256",
       "uid": "66g1e6CnnTXkxkHa9HkUrvTLU70",
-      "wrHolder": null,
-      "wrTime": null,
-      "wrDate": null,
+      "wrHolder": "lioton",
+      "wrTime": 20330,
+      "wrDate": "2026-10-21T19:07:13+00:00",
       "secondHolder": null,
       "secondTime": null,
-      "error": "No tops data"
+      "error": null
     },
     {
       "number": 257,
