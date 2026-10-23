@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-22T08:20:55.704Z",
+  "lastUpdate": "2026-10-23T08:18:34.837Z",
   "maps": [
     {
       "number": 1,
@@ -1479,11 +1479,11 @@
       "number": 135,
       "name": "Jump#135",
       "uid": "osq8KVb3QLEYg9I5MrtusRwW85h",
-      "wrHolder": "JarCrab",
-      "wrTime": 14955,
-      "wrDate": "2024-09-28T22:11:04+00:00",
-      "secondHolder": "FlinkeJetsersTM",
-      "secondTime": 14985,
+      "wrHolder": "GeraldDuke",
+      "wrTime": 14946,
+      "wrDate": "2026-10-23T06:07:24+00:00",
+      "secondHolder": "JarCrab",
+      "secondTime": 14955,
       "error": null
     },
     {
@@ -2648,8 +2648,8 @@
       "wrHolder": "Bino-TM",
       "wrTime": 19030,
       "wrDate": "2026-07-28T17:20:56+00:00",
-      "secondHolder": "Utaurent",
-      "secondTime": 22592,
+      "secondHolder": "AvoRL",
+      "secondTime": 19198,
       "error": null
     },
     {
