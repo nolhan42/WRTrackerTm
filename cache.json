@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-31T09:18:23.609Z",
+  "lastUpdate": "2026-11-01T10:06:08.918Z",
   "maps": [
     {
       "number": 1,
@@ -2810,11 +2810,11 @@
       "number": 256,
       "name": "Jump#256",
       "uid": "66g1e6CnnTXkxkHa9HkUrvTLU70",
-      "wrHolder": "lioton",
-      "wrTime": 20330,
-      "wrDate": "2026-10-21T19:07:13+00:00",
-      "secondHolder": null,
-      "secondTime": null,
+      "wrHolder": "AvoRL",
+      "wrTime": 19535,
+      "wrDate": "2026-11-01T06:57:53+00:00",
+      "secondHolder": "lioton",
+      "secondTime": 20330,
       "error": null
     },
     {
