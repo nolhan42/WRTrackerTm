@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-07T09:38:57.758Z",
+  "lastUpdate": "2026-11-08T09:55:02.764Z",
   "maps": [
     {
       "number": 1,
@@ -2788,11 +2788,11 @@
       "number": 254,
       "name": "Jump#254",
       "uid": "G11RrRv7nRc8UhPAkrRuAWw1gB3",
-      "wrHolder": "Feraligat_r",
-      "wrTime": 12778,
-      "wrDate": "2026-10-02T09:39:16+00:00",
-      "secondHolder": "Jakeckakec321",
-      "secondTime": 12951,
+      "wrHolder": "SneakyS14",
+      "wrTime": 12721,
+      "wrDate": "2026-11-07T14:29:58+00:00",
+      "secondHolder": "Feraligat_r",
+      "secondTime": 12778,
       "error": null
     },
     {
@@ -2824,8 +2824,8 @@
       "wrHolder": "Swaffelini",
       "wrTime": 16743,
       "wrDate": "2026-10-08T17:45:52+00:00",
-      "secondHolder": "Joebleau",
-      "secondTime": 23708,
+      "secondHolder": "justacarrot_",
+      "secondTime": 16967,
       "error": null
     }
   ]
