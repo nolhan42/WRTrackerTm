@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-27T11:48:55.513Z",
+  "lastUpdate": "2026-11-28T11:23:37.251Z",
   "maps": [
     {
       "number": 1,
@@ -2648,7 +2648,7 @@
       "wrHolder": "Bino-TM",
       "wrTime": 19030,
       "wrDate": "2026-07-28T17:20:56+00:00",
-      "secondHolder": "AvoRL",
+      "secondHolder": "Avo44",
       "secondTime": 19198,
       "error": null
     },
@@ -2656,11 +2656,11 @@
       "number": 242,
       "name": "Jump#242",
       "uid": "oB8WfU1AtpCIomeRgbEKUF555gi",
-      "wrHolder": "Florida_mAndrew",
-      "wrTime": 14176,
-      "wrDate": "2026-11-26T17:06:10+00:00",
-      "secondHolder": "Flopper_TM",
-      "secondTime": 14212,
+      "wrHolder": "Flopper_TM",
+      "wrTime": 14073,
+      "wrDate": "2026-11-27T20:12:13+00:00",
+      "secondHolder": "Florida_mAndrew",
+      "secondTime": 14176,
       "error": null
     },
     {
@@ -2810,7 +2810,7 @@
       "number": 256,
       "name": "Jump#256",
       "uid": "66g1e6CnnTXkxkHa9HkUrvTLU70",
-      "wrHolder": "AvoRL",
+      "wrHolder": "Avo44",
       "wrTime": 19535,
       "wrDate": "2026-11-01T06:57:53+00:00",
       "secondHolder": "lioton",
